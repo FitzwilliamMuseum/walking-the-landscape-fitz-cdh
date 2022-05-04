@@ -1,0 +1,83 @@
+// Add your custom variables to this file
+// I normally prepend them with a 'c-' to distinguish them from Tachyons selectors
+
+// Better sans-serif stack putting Segoe before Arial on Windows
+// We'll refer to this variable in _c.scss
+$c-sans-serif: -apple-system, BlinkMacSystemFont, 'segoe ui', 'helvetica neue', helvetica, ubuntu, roboto, noto, sans-serif;
+/******************************** TACHYONS Customization *******************************/
+
+
+$creme: #FFF9EB;
+$green: #00470E;
+$berry: #7B2542;
+$ink: #2B2B2E;
+$light-green: #E0EBE2;
+$light-berry: #EBE0E4;
+$white: #FFF;
+
+$colors: (
+  "creme": $creme,
+  "green": $green,
+  "berry": $berry,
+  "ink": $ink,
+  "light-green": $light-green,
+  "light-berry": $light-berry,
+  "white": $white
+);
+
+:root {
+  --creme: #{$creme};
+  --green: #{$green};
+  --berry: #{$berry};
+  --ink: #{$ink};
+  --light-green: #{$light-green};
+  --light-berry: #{$light-berry};
+  --white: #{$white};
+}
+
+/* Generate atomic classes based on custom colors,
+   Credits to James Chambers https://jameschambers.co/writing/tachyons-custom-colours/
+*/
+@each $name, $hex in $colors {
+  .#{$name} {
+    color: $hex;
+    &:visited {
+      color: $hex;
+    }
+  }
+  .bg-#{$name} {
+    background-color: $hex;
+  }
+  .b--#{$name} {
+    border-color: $hex;
+  }
+  .hover-bg-#{$name} {
+    &:focus,
+    &:active,
+    &:hover {
+      background-color: $hex;
+    }
+  }
+  .hover-#{$name}:hover,
+  .hover-#{$name}:visited:hover {
+    color: $hex;
+  }
+}
+
+html, body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.serif {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 300;
+}
+.sans-serif {
+  font-family: "Open Sans", sans-serif;
+}
+
+a {
+  color: map-get($colors, 'green');
+}
+
+.mt-2 { margin-top: -0.5rem }
