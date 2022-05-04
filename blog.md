@@ -13,7 +13,7 @@ title: Blog
               {{ post.title }}
             </h1> 
           </a>
-          <p class="f5 fw4 f4-l lh-copy avenir cherry">
+          <p class="f5 fw4 f4-l lh-copy avenir ink">
               {{ post.excerpt }}
           </p>
         </div>
