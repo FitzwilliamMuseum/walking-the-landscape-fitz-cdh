@@ -1,6 +1,6 @@
 ---
 title: Elenor Ling
-twitter: "@elenor_says"
+twitter: elenor_says
 image: "https://fitz-cms-images.s3.eu-west-2.amazonaws.com/microsoftteams-image-2-.png"
 institution: The Fitzwilliam Museum
 layout: profile

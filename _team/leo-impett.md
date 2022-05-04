@@ -3,6 +3,8 @@ title: Dr Leo Impett
 image: "https://itatti.harvard.edu/sites/default/files/styles/profile_full/public/itatti/files/impett_leonardo.jpg?m=1561103323&itok=ZhRFbQXw"
 institution: Cambridge Digital Humanities
 layout: profile
+twitter: leoimpett
+orcid: 0000-0003-1774-5175
 ---
 Leonardo Impett read Engineering at St. John’s College, Cambridge, with a master’s thesis on the use of 
 machine learning in experimental violin acoustics. He then joined the RAINBOW group at the Cambridge Computer

@@ -15,10 +15,10 @@
   </div>
   <div class="lh-copy f5 f4-ns fw3 black-80 mv3 mv4-ns">
     {% if page.twitter %}
-     Twitter Handle: <a href="https://twitter.com/{{ page.twitter}}">{{ page.twitter}}</a><br/>
+     Twitter Handle: <a href="https://twitter.com/{{ page.twitter}}">@{{ page.twitter}}</a><br/>
     {% endif %}
     {% if page.orcid %}
-    OrcID: {{ page.orcid}}
+    OrcID: <a href="https://orcid.org/{{ page.orcid}}">{{ page.orcid}}</a>
     {%endif%}
   </div>
 </article>
