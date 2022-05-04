@@ -23,8 +23,8 @@ email: dejp3@cam.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   A collaborative project between the Fitzwilliam Museum and Cambridge Digital
   Humanities to interrogate the landscapes depicted in John Constable's prints.
-baseurl: "/walking-the-landscape-fitz-cdh" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://walking-the-landscape.fitzmuseum.cam.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: fitzmuseum_uk
 github_username:  fitzwilliammuseum
 
