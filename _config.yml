@@ -34,12 +34,17 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 # Build settings
+timezone: Europe/London
+permalink: pretty
+encoding: "utf-8"
 markdown: kramdown
 collections:
    team:
       output: true
+      permalink: /:collection/:path
    walks:
       output: true
+      permalink: /:collection/:path
 sass:
   style: compressed
 # Exclude from processing.
