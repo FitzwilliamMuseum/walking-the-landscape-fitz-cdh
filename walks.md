@@ -23,7 +23,7 @@ permalink: /walks
         </div>
       </div>
       <p class="f6 lh-copy black mv0">By <span class="text-ink">{{ post.author }}</span></p>
-      <time class="f6 db $berry">{{ post.date | date: "%A, %b %d %Y" }}</time>
+      <time class="f6 db berry">{{ post.date | date: "%A, %b %d %Y" }}</time>
     </article>
 {% endfor %}
 </section>

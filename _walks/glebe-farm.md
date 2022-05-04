@@ -45,7 +45,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
       </div>
       <img src="https://fitz-cms-images.s3.eu-west-2.amazonaws.com/pd_222_1961.jpeg" class="db w-100"/>
       <blockquote class="mh0 pr0 mt5">
-        <p class="f2 f1-l fw1 mv0 tc lh-title baskerville">
+        <p class="f2 f1-l fw1 mv0 tc lh-title baskerville berry fw4">
           “I should paint my own places best; painting with me is but another word for feeling”
         </p>
         <p class="tc f6 gray">
