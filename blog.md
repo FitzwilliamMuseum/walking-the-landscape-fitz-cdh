@@ -3,7 +3,7 @@ layout: default
 permalink: /blog
 title: Blog posts
 ---
-<ul>
+
   {% for post in site.posts %}
   <section class="mw10 center">
 <article class="pv4 bb b--black-10 ph3 ph0-l">
@@ -28,4 +28,3 @@ title: Blog posts
 </section>
 
   {% endfor %}
-</ul>
