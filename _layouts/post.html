@@ -1,17 +1,46 @@
 {% include header.html %}
 
-<article class="ph7-ns pl4 pr4 mt3 mb3">
 
-    <header>
+<div class="js-wrap filter-animate">
 
-        <h1 class="f3 lh-title">{{ page.title }}</h1>
+    <main class="mw7 mh3 mb5 center">
+        <div id="banner" class="mw6 center ph3 mv5">
+            <img src="{{ page.lead_image }}" class="light-red">
+        </div>
 
-        <p class="gray"><time>{{ page.date | date: "%b %-d,  %Y" }}</time></p>
+        <article class="ph3">
 
-    </header>
+            <h1 class="f3 f2-ns black-90 nowrap">{{ page.title }} <br>
+                <small class="fw4 gray f4 f3-ns nowrap">by {{ page.author }}</small>
+            </h1>
+            <h2 class="f6 fw4 mv0 black-60">
+                <time datetime="2016-03-24 00:00:00 +0000">{{ page.date | date: "%A, %b %d %Y" }}</time>
+            </h2>
 
-    {{ content}}
+            <div class="lh-copy f5 f4-ns fw3 black-80 mv3 mv4-ns">
+                {{ page.content }}
+            </div>
 
-</article>
+
+            <aside class="flex flex-wrap items-center justify-start black-70 mv4">
+                <button type="button"
+                        class="pointer black-70 f6 tracked-tight override-sans-serif nowrap bg-light-gray hover-bg-black-20 ba b--none br2 pa2 mr2 mv1">
+                    Constable
+                </button>
+                <button type="button"
+                        class="pointer black-70 f6 tracked-tight override-sans-serif nowrap bg-light-gray hover-bg-black-20 ba b--none br2 pa2 mr2 mv1">
+                    Lucas
+                </button>
+                <button type="button"
+                        class="pointer black-70 f6 tracked-tight override-sans-serif nowrap bg-light-gray hover-bg-black-20 ba b--none br2 pa2 mr2 mv1">
+                    Printmaking
+                </button>
+                <button type="button"
+                        class="pointer black-70 f6 tracked-tight override-sans-serif nowrap bg-light-gray hover-bg-black-20 ba b--none br2 pa2 mr2 mv1">
+                    Example tags
+                </button>
+            </aside>
+
+        </article>
 
 {% include footer.html %}

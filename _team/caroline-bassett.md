@@ -1,22 +1,8 @@
 ---
 title: Professor Caroline Bassett
-twitter: "@dejpett"
-image: "/images/staff/danielpett.jpeg"
-institution: The Fitzwilliam Museum
-layout: default
-orcid: 0000-0002-0246-2335
+image: "https://www.english.cam.ac.uk/people/images/Caroline.Bassett.jpg"
+institution: Cambridge Digital Humanities
+layout: profile
 ---
-Dan was previously Digital Humanities lead at the British Museum, where he designed
-and implemented digital innovation connecting humanities research, museum practice,
-and the creative industries. In doing so, he has created extensive cross-disciplinary
-and cross-sector networks. He is an advocate of open access, open source and
-reproducible research. He holds Honorary posts at UCL Institute of Archaeology
-and the Centre for Digital Humanities and publishes regularly in the fields of
-museum studies, archaeology and digital humanities.
+My research explores digital technologies in relation to questions of knowledge production and epistemology (how does 'the digital' change scholarship, transform understanding, produce new scales or perspectives?) and in relation to cultural forms, practices, and ways of being (how can we understand the stakes of informational capitalism, what are its symptoms, how can we understand its temporalities, the forms of life it enables, and those it forecloses?). I began with an English degree, and then became a technology journalist for some years, before returning to explore media theory at doctoral level. More recently I co-founded the Sussex Humanities Lab at Sussex University. Visiting fellowships include at McGill (IGSF), and as the Helsingin Sanomat Fellow at the Helsinki Collegium for Advanced Studies. I arrived at Cambridge in Autumn 2019 as Professor of Digital Humanities and Director of Cambridge Digital Humanities (CDH). 
 
-Dan’s first major project at the British Museum was to design and build the award
-winning Portable Antiquities Scheme database (which holds records of over 1.3 million objects)
-and enabled collaboration through projects working on linked and open data (LOD)
-with ISAWNYU and the American Numismatic Society, crowdsourcing and crowdfunding
-(MicroPasts), and developing the British Museum’s 3D capture reputation. Daniel
-is Fellow of the Society of Antiquaries, London and the Royal Geographical Society.

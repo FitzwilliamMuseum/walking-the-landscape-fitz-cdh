@@ -1,22 +1,10 @@
 ---
 title: Elenor Ling
-twitter: "@dejpett"
-image: "/images/staff/danielpett.jpeg"
+twitter: "@elenor_says"
+image: "https://fitz-cms-images.s3.eu-west-2.amazonaws.com/microsoftteams-image-2-.png"
 institution: The Fitzwilliam Museum
-layout: default
-orcid: 0000-0002-0246-2335
+layout: profile
 ---
-Dan was previously Digital Humanities lead at the British Museum, where he designed
-and implemented digital innovation connecting humanities research, museum practice,
-and the creative industries. In doing so, he has created extensive cross-disciplinary
-and cross-sector networks. He is an advocate of open access, open source and
-reproducible research. He holds Honorary posts at UCL Institute of Archaeology
-and the Centre for Digital Humanities and publishes regularly in the fields of
-museum studies, archaeology and digital humanities.
+Elenor Ling is Curator within the department of Paintings, Drawings and Prints. She is responsible for the care, interpretation and display of the Fitzwilliam Museum’s print collection, comprising 125,000 objects, and has a particular interest in histories and methodologies of collecting. Elenor was co-curator of the major, interdisciplinary exhibition The Human Touch: Making Art, Leaving Traces (2021), and was sole curator of several exhibitions in the Print Gallery, including Changing Faces: Anthony Van Dyck as an etcher (2009), Work, rest and play: women and children in prints after Chardin (2012), Cradled in Caricature: Visual humour in satirical prints and drawings (2015‒16), An Amateur’s Passion: Lord Fitzwilliam’s print collection (2016) and Virtue, Vice and the Senses: Prints 1540‒1660 (2021).
 
-Dan’s first major project at the British Museum was to design and build the award
-winning Portable Antiquities Scheme database (which holds records of over 1.3 million objects)
-and enabled collaboration through projects working on linked and open data (LOD)
-with ISAWNYU and the American Numismatic Society, crowdsourcing and crowdfunding
-(MicroPasts), and developing the British Museum’s 3D capture reputation. Daniel
-is Fellow of the Society of Antiquaries, London and the Royal Geographical Society.
+Elenor is currently working on a digitasation project on prints by David Lucas after John Constable, as well as researching the print albums belonging to Lord Fitzwilliam (1745‒1816)

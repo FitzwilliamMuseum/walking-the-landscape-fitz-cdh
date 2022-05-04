@@ -1,8 +1,7 @@
 ---
 title: Dr Mary Chester-Kadwell
-twitter: "@dejpett"
-image: "/images/staff/danielpett.jpeg"
-institution: The Fitzwilliam Museum
-layout: default
-orcid: 0000-0002-0246-2335
+image: "https://avatars.githubusercontent.com/u/5013576?v=4"
+institution: Cambridge Digital Humanities/ The University Library
+layout: profile
 ---
+Software engineer. Love to collaborate, make stuff happen, and learn all things tech.

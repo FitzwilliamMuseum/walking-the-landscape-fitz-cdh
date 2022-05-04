@@ -1,9 +1,9 @@
 ---
 title: Professor Daniel Pett
 twitter: "@dejpett"
-image: "/images/staff/danielpett.jpeg"
+image: "http://finds.org.uk/assets/staffphotos/resized/1926818_10152235392501071_1126733986_n.jpg"
 institution: The Fitzwilliam Museum
-layout: default
+layout: profile
 orcid: 0000-0002-0246-2335
 ---
 Dan was previously Digital Humanities lead at the British Museum, where he designed

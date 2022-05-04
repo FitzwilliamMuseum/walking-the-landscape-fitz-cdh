@@ -1,5 +1,5 @@
 ---
-title: East Bergholt
+title: Glebe Farm
 walk_byline: "A meander through Constable's birthplace"
 layout: default
 excerpt: "Here will be the overview of what the walk might do"

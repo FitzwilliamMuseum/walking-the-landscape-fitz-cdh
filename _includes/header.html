@@ -22,7 +22,7 @@
             {{ inline-styles | scssify }}
         </style>
         {% else %}
-        <link href="/css/style.css" rel="stylesheet">
+        <link href="{{ site.baseurl }}/css/style.css" rel="stylesheet">
         {% endif %}
 
     </head>
@@ -32,14 +32,14 @@
         <p class="clip"><a href="#content">Skip to content</a></p>
         <nav class="db w-100 border-box pa3 bg-ink creme dt-l ph5-l">
           <h1 class="db v-mid link w-100 tc mb2 sans-serif f3 dtc-l w-40-l tl-l mb0-l f2-ns">
-            <a href="/" title="Home" class="link dim creme fw3">{{ site.title }}</a>
+            <a href="{{ site.baseurl }}/" title="Home" class="link dim creme fw3">{{ site.title }}</a>
           </h1>
             <div class="db v-mid w-100 tc sans-serif dtc-l w-60-l tr-l">
-              <a href="/" title="Home" class="link dim creme f6 f5-ns dib mr3 mr4-l">Home</a>
-              <a href="/blog" title="The blog" class="link dim creme f6 f5-ns dib mr3 mr4-l">Blog Posts</a>
-              <a href="/phenonmenology" title="The phenonmenology of Constable" class="link dim creme f6 f5-ns dib mr3 mr4-l">Constable's Landscape</a>
-              <a href="/about" title="About" class="link dim creme f6 f5-ns dib mr3 mr4-l">About</a>
-              <a href="/team" title="Our team of researchers" class="link dim creme f6 f5-ns dib mr3 mr4-l">Our Team</a>
+              <a href="{{ site.baseurl }}/" title="Home" class="link dim creme f6 f5-ns dib mr3 mr4-l">Home</a>
+              <a href="{{ site.baseurl }}/blog" title="The blog" class="link dim creme f6 f5-ns dib mr3 mr4-l">Blog</a>
+              <a href="{{ site.baseurl }}/walks" title="The walks in the landscape" class="link dim creme f6 f5-ns dib mr3 mr4-l">Walks</a>
+              <a href="{{ site.baseurl }}/about" title="About" class="link dim creme f6 f5-ns dib mr3 mr4-l">About</a>
+              <a href="{{ site.baseurl }}/team" title="Our team of researchers" class="link dim creme f6 f5-ns dib mr3 mr4-l">Our Team</a>
             </div>
           </nav>
 
