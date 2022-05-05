@@ -7,6 +7,8 @@ author: Caroline Bassett
 preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp82/preview_PD_15_1968_201501_adn21_dc2.jpg
 image: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp82/PD_15_1968_201501_adn21_dc2.jpg
 intro: Testing the system
+geojson: dedham.json
+centroid: "51.95403203180633,1.031792163848877"
 ---
 <article class="bg-white">
     <div class="vh-75 cover bg-center" style="background-image: url(https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/588/729/large_P_1489_R_mas.jpg);"></div>
@@ -16,17 +18,6 @@ intro: Testing the system
           A short description of the image that this walk pertains to. Tell us a little to set the scene.
     Don't say too much here.
         </p>
-      </div>
-      <div class="cf mw8 center">
-        <div class='fl w-33 w-50-m w-33-l pr2 pr2-l'>
-          <div class="pv6 grow cover bg-center" style="background: url({{page.preview}});"></div>
-        </div>
-        <div class='fl w-33 w-50-m w-33-l ph3 pr0-m ph3-l'>
-          <div class="pv6 grow cover bg-center" style="background-image: url({{page.preview}});"></div>
-        </div>
-        <div class='fl w-33 w-100-m w-33-l pl2 pl0-m pl2-l mt4-m'>
-          <div class="pv6 grow cover bg-center" style="background-image: url({{page.preview}});"></div>
-        </div>
       </div>
       <div class="measure f3 center mv5 black-70">
         <h1 class="fw6 f3 avenir">{{ page.walk_byline }}</h1>
@@ -61,8 +52,15 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
       </div>
     </div>
   </article>
-  <section class="cf mt5 pv5 bt b--black-05 ph6-l">
-    <h1 class="tc f5  fw6 tracked mb4 avenir">Discover more walks</h1>
+  <section class="cf mt5 pv2  ph6-l">
+
+{% if page.geojson %}
+<h1 class="tc f5 fw6 tracked mb4 avenir">The walking route</h1>
+<div id="map" style="width: 100%; height: 500px;"></div>
+{% endif %}
+</section>
+  <section class="cf mt5 pv2 ph6-l">
+    <h1 class="tc f5 fw6 tracked mb4 avenir">Discover more walks</h1>
     <a href="#0" class="fl w-third w-25-ns border-box overflow-hidden ba bw2 white" title="">
       <div class="grow cover bg-center pv5 pv6-l" style="background-image:url(https://fitz-cms-images.s3.eu-west-2.amazonaws.com/pd_24_1981_201811_mfj22_dc2.jpg);"></div>
     </a>

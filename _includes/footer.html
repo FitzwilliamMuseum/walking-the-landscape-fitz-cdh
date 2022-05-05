@@ -43,8 +43,31 @@
     </div>
   </section>
 </footer>
+{% if page.geojson %}
+<script   src="https://code.jquery.com/jquery-3.6.0.min.js"   integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="   crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.4.0/leaflet.js"></script>
+<script type="text/javascript">
 
+  var map = new L.Map('map', {
+    center: new L.LatLng(
+            {{ page.centroid}}
+    ),
+    zoom: 14,
+    minZoom: 10,
+    maxZoom: 18
+  });
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '&copy; <a href="https://openstreetmap.org/copyright">OpenStreetMap contributors</a>'
+  }).addTo(map);
 
+  // load GeoJSON from an external file
+  $.getJSON("/geojson/{{ page.geojson }}",function(data){
+    // add GeoJSON layer to the map once the file is loaded
+    L.geoJson(data).addTo(map);
+  });
+</script>
+{% endif %}
 </body>
 
 </html>

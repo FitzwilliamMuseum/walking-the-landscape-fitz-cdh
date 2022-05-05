@@ -24,7 +24,9 @@
         {% else %}
         <link href="{{ site.baseurl }}/css/style.css" rel="stylesheet">
         {% endif %}
-
+        {% if page.geojson %}
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.4.0/leaflet.css" rel="stylesheet">
+        {% endif %}
     </head>
 
     <body class="w-100 bg-white">
