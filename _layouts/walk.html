@@ -51,4 +51,13 @@
         </a>
     </section>
 </article>
+
+<aside class="mw5 mw7-ns center items-center pa3 ph5-ns">
+    {% for tags in page.tags %}
+    <button type="button"
+            class="pointer black-70 f6 tracked-tight override-sans-serif nowrap bg-light-gray hover-bg-black-20 ba b--none br2 pa2 mr2 mv1">
+        {{ tags }}
+    </button>
+    {% endfor %}
+</aside>
 {% include footer.html %}
