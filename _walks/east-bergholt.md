@@ -2,10 +2,11 @@
 title: East Bergholt
 walk_byline: "A meander through Constable's birthplace"
 layout: walk
-excerpt: "Here will be the overview of what the walk might do"
+excerpt: "Explore the landscape around East Bergholt, Suffolk."
 author: Caroline Bassett
-preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp82/preview_PD_15_1968_201501_adn21_dc2.jpg
+preview: https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/647/604/preview_P_1488_R_mas.jpg
 image: https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/588/729/large_P_1489_R_mas.jpg
+alt: ''
 secondimage: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/pd_222_1961.jpeg
 image-credit: "PDXXX Copyright Fitzwilliam Museum"
 geojson: dedham.json
