@@ -14,7 +14,7 @@ permalink: /walks
               {{ post.title }}
             </h1>
           </a>
-          <p class="f5 f4-l lh-copy avenir">
+          <p class="f5 fw4 f4-l lh-copy avenir">
               {{ post.excerpt }}
           </p>
         </div>
