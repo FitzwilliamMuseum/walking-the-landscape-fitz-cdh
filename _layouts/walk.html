@@ -1,0 +1,54 @@
+{% include header.html %}
+<article class="ph7-ns pl4 pr4 mt3 mb3 bg-white">
+    <div class="vh-75 cover bg-center" style="background-image: url({{page.image}});"></div>
+    <div><p class="lh-copy measure f4 f3-ns berry baskerville">{{ page.image-credit}}</p></div>
+    <div class="ph4 ph5-m ph6-l">
+        <div class="pv3 f4 f2-ns measure center">
+            <p class="db lh-copy black-70 serif fw1 mv0 f4 f3-m f2-l measure baskerville">
+                {{ page.sceneset}}
+            </p>
+        </div>
+        <div class="measure f3 center mv5 black-70">
+            <h1 class="fw6 f3 avenir">{{ page.walk_byline }}</h1>
+            {{ page.content }}
+        </div>
+        <img src="{{ page.secondimage }}" class="db w-100"/>
+        <blockquote class="mh0 pr0 mt5">
+            <p class="f2 f1-l fw1 mv0 tc lh-title baskerville berry">
+                {{ page.quote }}
+            </p>
+            <p class="tc f6 berry">
+                {{ page.byline }}
+            </p>
+        </blockquote>
+    </div>
+    {% if page.geojson %}
+    <section class="cf mt5 pv2  ph6-l">
+        <h1 class="tc f5 fw6 tracked mb4 avenir">The walking route</h1>
+        <div id="map" style="width: 100%; height: 500px;"></div>
+    </section>
+    {% endif %}
+
+    <section class="cf mt5 pv2 ph6-l">
+        <h1 class="tc f5 fw6 tracked mb4 avenir">Discover more walks</h1>
+        <a href="#0" class="fl w-third w-25-ns border-box overflow-hidden ba bw2 white" title="">
+            <div class="grow cover bg-center pv5 pv6-l" style="background-image:url(https://fitz-cms-images.s3.eu-west-2.amazonaws.com/pd_24_1981_201811_mfj22_dc2.jpg);"></div>
+        </a>
+        <a href="#0" class="fl w-third w-25-ns border-box overflow-hidden  ba bw2 white" title="">
+            <div class="grow cover bg-top pv5 pv6-l" style="background-image:url(https://fitz-cms-images.s3.eu-west-2.amazonaws.com/pd_2_1953.jpeg);"></div>
+        </a>
+        <a href="#0" class="fl w-third w-25-ns border-box overflow-hidden ba bw2 white" title="">
+            <div class="grow cover bg-top pv5 pv6-l" style="background-image:url(https://fitz-cms-images.s3.eu-west-2.amazonaws.com/arton1536-50c1f-1.jpeg);"></div>
+        </a>
+        <a href="#0" class="fl w-100 w-25-ns border-box overflow-hidden ba bw2 white" title="">
+            <div class="grow cover bg-top pv5 pv6-l" style="background-image:url(https://fitz-cms-images.s3.eu-west-2.amazonaws.com/arton1515-92dc1.jpeg);"></div>
+        </a>
+        <a href="#0" class="fl w-50 border-box overflow-hidden ba bw2 white" title="">
+            <div class="grow cover bg-center pv5 pv7-l" style="background-image:url(https://fitz-cms-images.s3.eu-west-2.amazonaws.com/arton1501-cf2af.jpeg);"></div>
+        </a>
+        <a href="#0" class="fl w-50 border-box overflow-hidden ba bw2 white" title="">
+            <div class="grow cover bg-center pv5 pv7-l" style="background-image:url(https://fitz-cms-images.s3.eu-west-2.amazonaws.com/the_roman_theater_at_taormina_2004.166.33.jpeg);"></div>
+        </a>
+    </section>
+</article>
+{% include footer.html %}

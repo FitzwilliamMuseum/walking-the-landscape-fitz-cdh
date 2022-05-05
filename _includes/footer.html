@@ -47,14 +47,14 @@
 <script   src="https://code.jquery.com/jquery-3.6.0.min.js"   integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="   crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.4.0/leaflet.js"></script>
 <script type="text/javascript">
-
   var map = new L.Map('map', {
     center: new L.LatLng(
-            {{ page.centroid}}
+            {{ page.centroid }}
     ),
     zoom: 14,
     minZoom: 10,
-    maxZoom: 18
+    maxZoom: 18,
+    scrollWheelZoom: false
   });
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
