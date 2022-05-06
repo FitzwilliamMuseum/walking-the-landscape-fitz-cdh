@@ -4,12 +4,13 @@ walk_byline: "A meander through Constable's birthplace"
 layout: walk
 excerpt: "Explore the landscape around East Bergholt, Suffolk."
 author: Caroline Bassett
-preview: https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/647/604/preview_P_1488_R_mas.jpg
-image: https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/588/729/large_P_1489_R_mas.jpg
-alt: ''
+preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp82/preview_PD_15_1968_201501_adn21_dc2.jpg
+image: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp82/PD_15_1968_201501_adn21_dc2.jpg
+alt: 'A view of East Bergholt by Constable'
+pref: 833
 secondimage: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/pd_222_1961.jpeg
-second_alt: ''
-image-credit: "PDXXX Copyright Fitzwilliam Museum"
+second_alt: 'Shaft of light sky study'
+image-credit: "PD.15-1968 Copyright Fitzwilliam Museum"
 geojson: dedham.json
 centroid: "51.95403203180633,1.031792163848877"
 quote: "I should paint my own places best; painting with me is but another word for feeling"
@@ -20,9 +21,11 @@ images:
     - 
       file:
       caption:
+      permalink:
     -
       file:
       caption:
+      permalink: 
 tags: [suffolk,printmaking,constable]
 ---
 <p class="lh-copy measure f4 f3-ns black-70 baskerville">

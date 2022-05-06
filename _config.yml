@@ -27,7 +27,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://walking-the-landscape.fitzmuseum.cam.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: fitzmuseum_uk
 github_username:  fitzwilliammuseum
-
+fitz_collection_url: https://data.fitzmuseum.cam.ac.uk/id/object/
 # Build settings
 plugins:
   - jekyll-feed
