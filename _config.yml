@@ -41,10 +41,10 @@ markdown: kramdown
 collections:
    team:
       output: true
-      permalink: /:collection/:path
+      permalink: /:collection/:path/
    walks:
       output: true
-      permalink: /:collection/:path
+      permalink: /:collection/:path/
 sass:
   style: compressed
 # Exclude from processing.

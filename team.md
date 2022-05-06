@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Our project team
-permalink: /team
+permalink: /team/
 ---
 <section class="mw10 center">
 {% for member in site.team %}

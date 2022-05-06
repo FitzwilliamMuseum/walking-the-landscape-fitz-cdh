@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Walking in Constable's footsteps
-permalink: /walks
+permalink: /walks/
 ---
 <section class="mw10 center">
 

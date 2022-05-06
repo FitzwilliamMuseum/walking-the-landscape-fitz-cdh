@@ -1,6 +1,6 @@
 ---
 layout: default 
-permalink: /blog 
+permalink: /blog/ 
 title: Blog
 ---
 <section class="mw10 center">
