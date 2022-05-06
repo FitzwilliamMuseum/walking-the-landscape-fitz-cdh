@@ -45,6 +45,9 @@ collections:
    walks:
       output: true
       permalink: /:collection/:path/
+   posts:
+     output: true
+     permalink: /blog/:path/
 sass:
   style: compressed
 # Exclude from processing.
