@@ -6,7 +6,6 @@ image: https://content.fitz.ms/fitz-website/assets/profile%20pic%20crop.jpg?key=
 institution: The Fitzwilliam Museum
 layout: profile
 ---
-
 Kate is the strategic lead on research relating to learning and engagement practice at the Fitzwilliam 
 Museum. She has a particular interest in collaborative action research and its potential to stimulate 
 change and improve practice which we have been exploring through the Nursery in Residence, Lines of Enquiry 
