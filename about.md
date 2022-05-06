@@ -6,7 +6,7 @@ permalink: /about/
 <iframe 
 class="w-100" 
 src="https://data.fitzmuseum.cam.ac.uk/uv.html#?manifest=https://api.fitz.ms/data-distributor/iiif/object-830/manifest&c=0&m=0&cv=0&config=https://data.fitzmuseum.cam.ac.uk/config.json&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),sv-SE:Svenska,xx-XX:English (GB) (xx-XX)&xywh=-2625,-1,9256,4764&r=0" 
-allowfullscreen height="800"></iframe>
+allowfullscreen height="800" frameBorder="0"></iframe>
 
 Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam 
 rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. 
