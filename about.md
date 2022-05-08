@@ -28,7 +28,7 @@ capture elements of that experience and bring together expert and general public
 form of public writing? Finally how can we mix various kinds of expertise to inform are slow viewing?
 
 We are also interested in both how much technology is needed to enable the walk (going low) and in how 
-we might supplement the experience – in this case via accompanying ariel photography, via the use of embedded 
+we might supplement the experience – in this case via accompanying aerial photography, via the use of embedded 
 images to over-lay historical and ‘imaginary’ landscapes, and provide new perspectives on time, change, distance 
 and experience.
 
