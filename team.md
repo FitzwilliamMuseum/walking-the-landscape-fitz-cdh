@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Our project team
-permalink: /team
+permalink: /team/
+image: https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/588/729/medium_P_1489_R_mas.jpg
 ---
 <section class="mw10 center">
 {% for member in site.team %}
@@ -13,7 +14,7 @@ permalink: /team
       {{ member.title }}
     </h1></a>
     <h2 class="f5 fw4 mv0 berry">Affiliated to: {{ member.institution }}</h2>
-    <p class="f5 f4-l fw4  lh-copy avenir">
+    <p class="f5 f5-l fw4  lh-copy avenir">
       {{ member.content | strip_html | truncate: 400 }}
     </p>
 

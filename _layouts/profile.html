@@ -1,13 +1,13 @@
 {% include header.html %}
 <article class="ph7-ns pl4 pr4 mt3 mb3">
   <header class="tc ph4">
-    <h1 class="f1 f2-m f1-l fw2 black-90 mv3 fw6  avenir">
+    <h1 class="f1 f2-m f1-l fw2 black-90 mv3 fw6 avenir">
       {{ page.title }}
     </h1>
   </header>
   {% if page.image %}
   <div id="banner" class="mw6 center ph3 mv5">
-    <img src="{{ page.image }}" class="light-red">
+    <img src="{{ page.image }}" class="light-red" alt="{{ page.alt }}">
   </div>
   {% endif %}
   <div class="lh-copy f5 f4-ns fw3 black-80 mv3 mv4-ns">

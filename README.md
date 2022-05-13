@@ -12,6 +12,7 @@ these depicted locations.
 
 * Elenor Ling, The Fitzwilliam Museum
 * Harry Metcalfe, The Fitzwilliam Museum
+* Kate Noble, The Fitzwilliam Museum
 * Daniel Pett, The Fitzwilliam Museum/ St. Edmund's College
 * Caroline Bassett, Cambridge Digital Humanities/ Christ's College
 * Neal Spencer, The Fitzwilliam Museum
@@ -30,7 +31,8 @@ licensed material. We endeavour to mark these explicitly.
 
 ## Third party software included
 
-1. Tachyons framework
+1. [Tachyons framework](https://tachyons.io)
+2. [Jekyll Github Pages](https://github.com/github/pages-gem) 
 
 ## To run this project locally
 
