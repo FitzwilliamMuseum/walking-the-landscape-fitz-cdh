@@ -1,5 +1,7 @@
 ---
 title: Andrew Corrigan
+firstname: Andrew
+surname: Corrigan
 institution: The University Library
 layout: profile
 image: https://www.cdh.cam.ac.uk/wp-content/uploads/2022/03/screenshot_2020-11-12_at_09.07.46-740x740.png

@@ -1,5 +1,7 @@
 ---
 title: Dr Tom Crowley
+firstname: Tom
+surname: Crowley
 institution: Museum of Archaeology and Anthropology
 layout: profile
 image: https://www.heritage.arch.cam.ac.uk/sites/www.heritage.arch.cam.ac.uk/files/styles/inline/public/media/profile/twfc2.jpg?itok=lPoTSZBS

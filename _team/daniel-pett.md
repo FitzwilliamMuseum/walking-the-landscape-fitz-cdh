@@ -1,5 +1,7 @@
 ---
 title: Professor Daniel Pett
+firstname: Daniel
+surname: Pett
 twitter: dejpett
 image: "https://finds.org.uk/assets/staffphotos/resized/1926818_10152235392501071_1126733986_n.jpg"
 institution: The Fitzwilliam Museum/ St. Edmund's College
