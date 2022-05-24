@@ -10,6 +10,7 @@ consequat."
 author: Elenor Ling
 geojson: CUCAP.json
 centroid: "51.95403203180633,1.031792163848877"
+manifest: https://cudl.lib.cam.ac.uk//iiif/PH-GEOGRAPHY-ADR-00092
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
