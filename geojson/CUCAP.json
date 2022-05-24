@@ -1,0 +1,418 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cropmarks, 1 mile ENE of Stratford St. Mary (ADR92)",
+        "link": "https://www.cambridgeairphotos.com/location/adr92/",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.997703,
+          51.972576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cropmarks, 1.25 miles E of Stratford St. Mary (AFJ59)",
+        "link": "https://www.cambridgeairphotos.com/location/afj59/",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.000611,
+          51.9725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Flatford Mill Field Centre (ANK35)",
+        "link": "https://www.cambridgeairphotos.com/location/ank35/",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.02151,
+          51.958477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Stour Estuary, near Dedham, looking E from (AXL95)",
+        "link": "https://www.cambridgeairphotos.com/location/axl95/",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.022721,
+          51.954845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Panorama near Langham, looking W (BER74)",
+        "link": "https://www.cambridgeairphotos.com/location/ber74/",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.953913,
+          51.970985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Crop marks, NW of Langham (BQK37)",
+        "link": "https://www.cambridgeairphotos.com/location/bqk37/",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.944719,
+          51.96402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cropmarks, 0.75 mile WSW of Holton St Mary (CCR65)",
+        "link": "https://www.cambridgeairphotos.com/location/ccr65/",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.979758,
+          51.987419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cropmarks, 1.5 miles E of East Bergholt (CCR78)",
+        "link": "https://www.cambridgeairphotos.com/location/ccr78/",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.048582,
+          51.971268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cropmarks, Stratford St Mary (CGD49)",
+        "link": "https://www.cambridgeairphotos.com/location/cgd49/",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.975302,
+          51.964149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cropmarks, SSE of Stratford St. Mary  (CMP65)",
+        "link": "https://www.cambridgeairphotos.com/location/cmp65/",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.975361,
+          51.96505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Crop Patterns, E of Bergholt  (CQL71)",
+        "link": "https://www.cambridgeairphotos.com/location/cql71/",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.031017,
+          51.969921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cropmarks, 0.75 mile NE of Bergholt (CQL72)",
+        "link": "https://www.cambridgeairphotos.com/location/cql72/",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.037378,
+          51.977852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cropmarks, Stratford St Mary (CRF94)",
+        "link": "https://www.cambridgeairphotos.com/location/crf94/",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.988981,
+          51.972797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cropmarks, 1.5 miles NE of East Bergholt  (CRF96)",
+        "link": "https://www.cambridgeairphotos.com/location/crf96/",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.048948,
+          51.976654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Near Vale farm, East Bergholt  (FW21)",
+        "link": "https://www.cambridgeairphotos.com/location/fw21/",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.002064,
+          51.972466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Stoke-by-Nayland, looking NW (HN64)",
+        "link": "https://www.cambridgeairphotos.com/location/hn64/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.892499,
+          51.989597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Farm Surveys, Denham and Stratford St Mary (RC8GY017)",
+        "link": "https://www.cambridgeairphotos.com/location/rc8gy017/",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.979473,
+          51.955482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Farm Surveys, Denham and Stratford St Mary (RC8GY018)",
+        "link": "https://www.cambridgeairphotos.com/location/rc8gy018/",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.973369,
+          51.955402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Farm Surveys, Denham and Stratford St Mary (RC8GY020)",
+        "link": "https://www.cambridgeairphotos.com/location/rc8gy020/",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.994977,
+          51.973831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Farm Surveys, Denham and Stratford St Mary (RC8GY021)",
+        "link": "https://www.cambridgeairphotos.com/location/rc8gy021/",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.989468,
+          51.974205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cropmarks, ring-ditches, 0.5 mile NW of Langham (ZC98)",
+        "link": "https://www.cambridgeairphotos.com/location/zc98/",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.950946,
+          51.970158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cropmarks, W of East Bergholt  (ZL8)",
+        "link": "https://www.cambridgeairphotos.com/location/zl8/",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.005032,
+          51.973289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cropmarks, 1.25 miles ENE of Stratford St.Mary (ZL9)",
+        "link": "https://www.cambridgeairphotos.com/location/zl9/",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.000611,
+          51.9725
+        ]
+      }
+    }
+  ]
+}
