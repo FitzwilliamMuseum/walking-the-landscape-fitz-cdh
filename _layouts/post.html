@@ -20,6 +20,11 @@
             <div class="lh-copy f5 f4-ns fw3 black-80 mv3 mv4-ns">
                 {{ page.content }}
             </div>
+
+            {% if page.manifest %}
+              {% include universal-viewer.html %}
+            {% endif %}
+
             {% if page.geojson %}
             <section class="cf mt5 pv2  ph6-l">
                 <div id="map" style="width: 100%; height: 500px;"></div>
