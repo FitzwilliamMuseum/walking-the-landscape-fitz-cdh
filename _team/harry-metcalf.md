@@ -1,7 +1,7 @@
 ---
-title: Harry Metcalfe
+title: Harry Metcalf
 firstname: Harry
-surname: Metcalfe
+surname: Metcalf
 institution: The Fitzwilliam Museum
 layout: profile
 image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/harry_metcalfe.jpg
