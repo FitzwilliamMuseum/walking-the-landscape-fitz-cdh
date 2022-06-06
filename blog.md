@@ -1,6 +1,6 @@
 ---
-layout: default 
-permalink: /blog/ 
+layout: default
+permalink: /blog/
 title: Blog
 ---
 <section class="mw10 center">
@@ -11,18 +11,19 @@ title: Blog
           <a href="{{site.baseurl}}{{ post.url }}" title="Read about {{ post.title }}">
             <h1 class="f3 avenir mt0 lh-title">
               {{ post.title }}
-            </h1> 
+            </h1>
           </a>
-          <p class="f5 fw4 f4-l lh-copy avenir ink">
+          <p class="f4 fw4 f4-l lh-copy avenir ink">
               {{ post.excerpt }}
           </p>
+          <p class="f6 lh-copy black mv0">By <span class="text-ink">{{ post.author }}</span></p>
+          <time class="f6 db $berry">{{ post.date | date: "%A, %b %d %Y" }}</time>
         </div>
         <div class="pl3-ns order-1 order-2-ns mb4 mb0-ns w-100 w-40-ns">
           <img src="{{ post.image }}" class="db" alt="{{ post.alt_text }}">
         </div>
       </div>
-      <p class="f6 lh-copy black mv0">By <span class="text-ink">{{ post.author }}</span></p>
-      <time class="f6 db $berry">{{ post.date | date: "%A, %b %d %Y" }}</time>
+
     </article>
 {% endfor %}
 </section>

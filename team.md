@@ -14,7 +14,7 @@ image: https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF
         {{ member.title }}
       </h1></a>
       <h2 class="f5 fw4 mv0 berry">Affiliated to: {{ member.institution }}</h2>
-      <p class="f5 f5-l fw4  lh-copy avenir">
+      <p class="f4 f4-l fw4  lh-copy avenir">
         {{ member.content | strip_html | truncate: 400 }}
       </p>
 
