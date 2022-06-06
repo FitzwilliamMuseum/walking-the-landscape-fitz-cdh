@@ -21,6 +21,15 @@
                 {{ page.content }}
             </div>
 
+            {% if page.manifest %}
+              {% include universal-viewer.html %}
+            {% endif %}
+
+            {% if page.geojson %}
+            <section class="cf mt5 pv2  ph6-l">
+                <div id="map" style="width: 100%; height: 500px;"></div>
+            </section>
+            {% endif %}
 
             <aside class="flex flex-wrap items-center justify-start black-70 mv4">
                 <button type="button"
