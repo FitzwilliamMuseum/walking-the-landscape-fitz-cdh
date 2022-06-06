@@ -9,7 +9,7 @@ magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
 consequat."
 author: Elenor Ling
 geojson: CUCAP.json
-centroid: "51.95403203180633,1.031792163848877"
+centroid: "51.964149,0.975302"
 manifest: https://cudl.lib.cam.ac.uk//iiif/PH-GEOGRAPHY-ADR-00092
 ---
 

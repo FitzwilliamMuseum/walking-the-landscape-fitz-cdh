@@ -46,26 +46,51 @@
 {% if page.geojson %}
 <script   src="https://code.jquery.com/jquery-3.6.0.min.js"   integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="   crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.4.0/leaflet.js"></script>
+<script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/Leaflet.fullscreen.min.js'></script>
+<link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/leaflet.fullscreen.css' rel='stylesheet' />
 <script type="text/javascript">
-  var map = new L.Map('map', {
-    center: new L.LatLng(
-            {{ page.centroid }}
-    ),
-    zoom: 14,
-    minZoom: 10,
-    maxZoom: 18,
-    scrollWheelZoom: false
-  });
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+
+  var OSM = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
     attribution: '&copy; <a href="https://openstreetmap.org/copyright">OpenStreetMap contributors</a>'
-  }).addTo(map);
-
-  // load GeoJSON from an external file
-  $.getJSON("/geojson/{{ page.geojson }}",function(data){
-    // add GeoJSON layer to the map once the file is loaded
-    L.geoJson(data).addTo(map);
   });
+
+  var Esri_WorldImagery = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+  	attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
+  });
+
+  var map = new L.Map('map', {
+    fullscreenControl: {
+        pseudoFullscreen: false
+    },
+    // center: new L.LatLng(
+    //   {{ page.centroid }}
+    // ),
+    // zoom: 12,
+    // minZoom: 10,
+    // maxZoom: 18,
+    scrollWheelZoom: false,
+    layers: [OSM,Esri_WorldImagery]
+  });
+
+  var layers = {
+      "OSM": OSM,
+      "Stamen": Esri_WorldImagery
+  };
+  var layerControl = L.control.layers(layers).addTo(map);
+
+  $.getJSON("/geojson/{{ page.geojson }}",function(data){
+   var geoJSON =  L.geoJson(data, {
+      onEachFeature: function (feature, layer) {
+        if (feature.properties && feature.properties.name) {
+            layer.bindPopup('<a href="' + feature.properties.link + '">' + feature.properties.name + '</a>');
+        }
+    }
+    }).addTo(map);
+    map.fitBounds(geoJSON.getBounds());
+
+  });
+
 </script>
 {% endif %}
 </body>
