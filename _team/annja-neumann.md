@@ -2,7 +2,7 @@
 title: Annja Neumann
 firstname: Annja
 surname: Neumann
-institution: Cambridge Digital Humanities
+institution: Cambridge Digital Humanities/ Magdalene College
 layout: profile
 image: https://content.fitz.ms/fitz-website/assets/thumbnail_annja_neumann_pic.png
 ---
