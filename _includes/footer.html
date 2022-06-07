@@ -79,6 +79,9 @@
         if (feature.properties && feature.properties.name) {
             layer.bindPopup('<a href="' + feature.properties.link + '">' + feature.properties.name + '</a>');
         }
+        if (feature.properties && feature.properties.label) {
+            layer.bindPopup('<a href="' + feature.properties.link + '">' + feature.properties.label + '</a>');
+        }
     }
     }).addTo(map);
     map.fitBounds(geoJSON.getBounds());
