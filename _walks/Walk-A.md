@@ -8,7 +8,7 @@ preview: https://raw.githubusercontent.com/FitzwilliamMuseum/walking-the-landsca
 image: https://raw.githubusercontent.com/FitzwilliamMuseum/walking-the-landscape-fitz-cdh/main/images/walks/PR-FITZWILLIAM-P-00232-01954-00001-B-000-00001_crop.jpg
 alt: 'Spring'
 pref: 833
-secondimage: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/pd_222_1961.jpeg](https://raw.githubusercontent.com/FitzwilliamMuseum/walking-the-landscape-fitz-cdh/main/images/walks/PR-FITZWILLIAM-P-00232-01954-00001-D-000-00001_crop.jpg)
+secondimage: https://raw.githubusercontent.com/FitzwilliamMuseum/walking-the-landscape-fitz-cdh/main/images/walks/PR-FITZWILLIAM-P-00232-01954-00001-D-000-00001_crop.jpg
 second_alt: 'River Stour'
 image-credit: "Copyright Fitzwilliam Museum"
 geojson: Walk-A.json
