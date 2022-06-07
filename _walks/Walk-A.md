@@ -12,7 +12,7 @@ secondimage: https://raw.githubusercontent.com/FitzwilliamMuseum/walking-the-lan
 second_alt: 'River Stour'
 image-credit: "Copyright Fitzwilliam Museum"
 geojson: Walk-A.json
-centroid: "51.95403203180633,1.031792163848877"
+centroid: "51.963850, 1.007635"
 quote: "I should paint my own places best; painting with me is but another word for feeling"
 byline: "John Constable"
 sceneset: "A short description of the image that this walk pertains to. Tell us a little to set the scene.
