@@ -4,7 +4,7 @@ firstname: Kate
 surname: Noble
 twitter: katejnoble
 orcid: 0000-0002-1182-1723
-image: https://content.fitz.ms/fitz-website/assets/profile%20pic%20crop.jpg?key=directus-large-crop
+image: https://content.fitz.ms/fitz-website/assets/profile%20pic%20crop.jpg
 institution: The Fitzwilliam Museum
 layout: profile
 ---

@@ -6,7 +6,7 @@ institution: The Fitzwilliam Museum
 layout: profile
 orcid: 0000-0002-3443-2341
 twitter: NealSpencer_
-image: "https://pbs.twimg.com/profile_images/655410690904227840/BeXZocDv_400x400.jpg"
+image: "https://content.fitz.ms/fitz-website/assets/neal_spencer.jpg"
 ---
 Holding a PhD in Egyptology (Cambridge, 2000), Neal’s research focuses on cultural entanglement and lived urban experience within the context of pharaonic imperialism in early Iron Age Nubia, as expressed through material and visual culture. Neal directed archaeological projects in Egypt (Samanud, Kom Firin) and Sudan (Amara West), with significant community archaeology, educational, scientific and environmental research strands. This work has been funded through significant grants from The Leverhulme Trust, British Academy, AHRC, the Qatar-Sudan Archaeological Project and the Egypt Exploration Society.
 

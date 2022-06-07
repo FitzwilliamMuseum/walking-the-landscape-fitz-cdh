@@ -20,7 +20,7 @@ image: https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF
 
     </div>
     <div class="pl3-ns order-1 order-2-ns mb4 mb0-ns w-100 w-40-ns">
-      <img src="{{ member.image }}" class="db" alt="A profile photo of {{ member.title }}">
+      <img src="{{ member.image }}?key=exhibition" class="db" alt="A profile photo of {{ member.title }}">
     </div>
   </div>
   </article>

@@ -4,7 +4,7 @@ firstname: Andrew
 surname: Corrigan
 institution: The University Library
 layout: profile
-image: https://www.cdh.cam.ac.uk/wp-content/uploads/2022/03/screenshot_2020-11-12_at_09.07.46-740x740.png
+image: https://content.fitz.ms/fitz-website/assets/andy_corrigan.png
 ---
 Andy Corrigan has a background in archaeology and specialises in graphics, illustration, historic building surveys and the application of photography.
 

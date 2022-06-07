@@ -2,7 +2,7 @@
 title: Professor Caroline Bassett
 firstname: Caroline
 surname: Bassett
-image: "https://www.english.cam.ac.uk/people/images/Caroline.Bassett.jpg"
+image: "https://content.fitz.ms/fitz-website/assets/Caroline.Bassett.jpeg"
 institution: Cambridge Digital Humanities
 layout: profile
 ---

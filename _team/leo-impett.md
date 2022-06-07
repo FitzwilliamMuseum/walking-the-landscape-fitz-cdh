@@ -2,7 +2,7 @@
 title: Dr Leo Impett
 firstname: Leo
 surname: Impett
-image: "https://itatti.harvard.edu/sites/default/files/styles/profile_full/public/itatti/files/impett_leonardo.jpg?m=1561103323&itok=ZhRFbQXw"
+image: "https://content.fitz.ms/fitz-website/assets/impett_leonardo.jpeg"
 institution: Cambridge Digital Humanities
 layout: profile
 twitter: leoimpett

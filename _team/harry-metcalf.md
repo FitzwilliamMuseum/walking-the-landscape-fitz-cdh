@@ -4,7 +4,7 @@ firstname: Harry
 surname: Metcalf
 institution: The Fitzwilliam Museum
 layout: profile
-image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/harry_metcalfe.jpg
+image: https://content.fitz.ms/fitz-website/assets/harry_metcalfe.jpg
 ---
 Harry Metcalf is an accredited conservator primarily responsible for the Fitzwilliam print collection. He previously worked at Bristol Museum and Art Gallery and was the Craigen W. Bowen Paper Conservation Fellow at the Straus Centre for Conservation and Technical Studies at Harvard Art Museums from 2012 to 2014.
 

@@ -3,7 +3,7 @@ title: Elenor Ling
 firstname: Elenor
 surname: Ling
 twitter: elenor_says
-image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/microsoftteams-image-2-.png
+image: https://content.fitz.ms/fitz-website/assets/Elenor Ling.jpg
 institution: The Fitzwilliam Museum
 layout: profile
 ---
