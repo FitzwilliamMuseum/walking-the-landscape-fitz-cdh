@@ -6,10 +6,10 @@ excerpt: "We'll walk from East Bergholt, Constable's birthplace, to Dedham via F
 author: Elenor Ling
 preview: https://raw.githubusercontent.com/FitzwilliamMuseum/walking-the-landscape-fitz-cdh/main/images/walks/PR-FITZWILLIAM-P-00232-01954-00001-B-000-00001_crop_preview.jpg
 image: https://raw.githubusercontent.com/FitzwilliamMuseum/walking-the-landscape-fitz-cdh/main/images/walks/PR-FITZWILLIAM-P-00232-01954-00001-B-000-00001_crop.jpg
-alt: "'Spring' by Constable"
+alt: 'Spring'
 pref: 833
-secondimage: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/pd_222_1961.jpeg
-second_alt: 'Shaft of light sky study'
+secondimage: [https://fitz-cms-images.s3.eu-west-2.amazonaws.com/pd_222_1961.jpeg](https://raw.githubusercontent.com/FitzwilliamMuseum/walking-the-landscape-fitz-cdh/main/images/walks/PR-FITZWILLIAM-P-00232-01954-00001-D-000-00001_crop.jpg)
+second_alt: 'River Stour'
 image-credit: "PD.15-1968 Copyright Fitzwilliam Museum"
 geojson: Walk-A.json
 centroid: "51.95403203180633,1.031792163848877"
