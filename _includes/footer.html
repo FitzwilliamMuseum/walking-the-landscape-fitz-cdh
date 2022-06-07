@@ -63,19 +63,13 @@
     fullscreenControl: {
         pseudoFullscreen: false
     },
-    // center: new L.LatLng(
-    //   {{ page.centroid }}
-    // ),
-    // zoom: 12,
-    // minZoom: 10,
-    // maxZoom: 18,
     scrollWheelZoom: false,
     layers: [OSM,Esri_WorldImagery]
   });
 
   var layers = {
       "OSM": OSM,
-      "Stamen": Esri_WorldImagery
+      "ESRI World": Esri_WorldImagery
   };
   var layerControl = L.control.layers(layers).addTo(map);
 
