@@ -11,7 +11,7 @@ pref: 833
 secondimage: https://raw.githubusercontent.com/FitzwilliamMuseum/walking-the-landscape-fitz-cdh/main/images/walks/PR-FITZWILLIAM-P-00232-01954-00001-D-000-00001_crop.jpg
 second_alt: 'River Stour'
 image-credit: "Copyright Fitzwilliam Museum"
-geojson: Walk-A.json
+geojson: Walk-A-13-JUNE.json
 centroid: "51.963850, 1.007635"
 quote: "I should paint my own places best; painting with me is but another word for feeling"
 byline: "John Constable"
