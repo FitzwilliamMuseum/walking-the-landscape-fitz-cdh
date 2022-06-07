@@ -4,11 +4,11 @@ walk_byline: "East Bergholt to Dedham via Flatford"
 layout: walk
 excerpt: "We'll walk from East Bergholt, Constable's birthplace, to Dedham via Flatford. Along the walk we'll explore the settings of three prints;'Spring', 'River Stour' and 'A Mill'."
 author: Elenor Ling
-preview: https://raw.githubusercontent.com/FitzwilliamMuseum/walking-the-landscape-fitz-cdh/main/images/walks/PR-FITZWILLIAM-P-00232-01954-00001-B-000-00001_crop_preview.jpg
-image: https://raw.githubusercontent.com/FitzwilliamMuseum/walking-the-landscape-fitz-cdh/main/images/walks/PR-FITZWILLIAM-P-00232-01954-00001-B-000-00001_crop.jpg
+preview: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/walks/PR-FITZWILLIAM-P-00232-01954-00001-B-000-00001_crop_preview.jpg
+image: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/walks/PR-FITZWILLIAM-P-00232-01954-00001-B-000-00001_crop.jpg
 alt: 'Spring'
 pref: 833
-secondimage: https://raw.githubusercontent.com/FitzwilliamMuseum/walking-the-landscape-fitz-cdh/main/images/walks/PR-FITZWILLIAM-P-00232-01954-00001-D-000-00001_crop.jpg
+secondimage: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/walks/PR-FITZWILLIAM-P-00232-01954-00001-D-000-00001_crop.jpg
 second_alt: 'River Stour'
 image-credit: "Copyright Fitzwilliam Museum"
 geojson: Walk-A-13-JUNE.json
