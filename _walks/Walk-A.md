@@ -1,5 +1,5 @@
 ---
-title: Walk A: East Bergholt to Dedham via Flatford
+title: "Walk A: East Bergholt to Dedham via Flatford"
 walk_byline: "East Bergholt to Dedham via Flatford"
 layout: walk
 excerpt: "We'll walk from East Bergholt, Constable's birthplace, to Dedham via Flatford. Along the walk we'll explore the settings of three prints;'Spring', 'River Stour' and 'A Mill'."
