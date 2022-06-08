@@ -8,7 +8,7 @@ alt: "A print of Constable's Glebe Farm"
 <img src="{{ page.image }}" alt="{{ page.alt }}" class="w-100" />
 </section>
 > "This spot saw the day spring of my Life, Hours of Joy, and years of Happiness, This place first tinged my boyish fancy with a love of the art, This place was the origin of my fame."
-{: .ph0 .f5 .f1-ns .measure-narrow .center .berry .garamond}
+{: .ph0 .f1 .lh-title .measure-narrow .center .berry .fw9}
 
 Constable’s connection with the countryside, his intimate familiarity with rural life, is evident in his paintings, drawings, and prints, in his choice of subjects and his attentive observation of the smallest detail of the natural world.
 
