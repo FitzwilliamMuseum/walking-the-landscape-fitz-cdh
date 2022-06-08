@@ -13,15 +13,9 @@ second_alt: 'River Stour'
 image-credit: "Copyright Fitzwilliam Museum"
 geojson: Walk-A-13-JUNE.json
 centroid: "51.963850, 1.007635"
-quote: "Hence the breath 
-Of life informing each organic frame; 
-Hence the green earth, and wild resounding waves; 
-Hence light and shade alternate, warmth and cold, 
-And bright and dewy clouds, and vernal show'rs, 
-And all the fair variety of things."
+quote: "Hence the breath of life informing each organic frame; Hence the green earth, and wild resounding waves; Hence light and shade alternate, warmth and cold, and bright and dewy clouds, and vernal show'rs, and all the fair variety of things."
 byline: "John Constable"
-sceneset: "A short description of the image that this walk pertains to. Tell us a little to set the scene.
-Don't say too much here."
+sceneset: "These are three key locations for Constable's formative years: his father, Golding Constable, owned mills in each of these places. Constable's family home was situated in East Bergholt, and John trod the path to Dedham every day to school."
 images: 
     - 
       file:
