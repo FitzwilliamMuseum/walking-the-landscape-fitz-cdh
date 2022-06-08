@@ -20,14 +20,13 @@
             {{ page.content }}
         </div>
         <img src="{{ page.secondimage }}" class="db w-100" alt="{{ page.second_alt }}"/>
-        <blockquote class="mh0 pr0 mt5">
-            <p class="f2 f1-l fw1 mv0 tc lh-title baskerville berry">
-                {{ page.quote }}
-            </p>
-            <p class="tc f6 berry">
-                {{ page.byline }}
-            </p>
+        <blockquote class="ph0 f4 f1-ns measure-narrow center">
+          <p class="fw9 lh-copy lh-title-ns berry">{{ page.quote }}  </p>
+          <p class="tc f6 black">
+              {{ page.byline }}
+          </p>
         </blockquote>
+
     </div>
     {% if page.geojson %}
     <section class="cf mt5 pv2  ph6-l">
