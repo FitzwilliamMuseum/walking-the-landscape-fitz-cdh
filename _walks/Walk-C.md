@@ -1,22 +1,18 @@
 ---
-title: East Bergholt
-walk_byline: "A meander through Constable's birthplace"
+title: "Walk C: Langham to East Bergholt via Dedham"
+walk_byline: "Langham to East Bergholt via Dedham"
 layout: walk
-excerpt: "Explore the landscape around East Bergholt, Suffolk."
-author: Caroline Bassett
-preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp82/preview_PD_15_1968_201501_adn21_dc2.jpg
-image: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp82/PD_15_1968_201501_adn21_dc2.jpg
-alt: 'A view of East Bergholt by Constable'
+excerpt: "We'll walk from Langham to East Bergholt via Dedham. These are..."
+author: Elenor Ling
+preview: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/walks/PR-FITZWILLIAM-P-00232-01954-00005-C-000-00001_crop-preview.jpg
+image: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/walks/PR-FITZWILLIAM-P-00232-01954-00005-C-000-00001_crop.jpg
+alt: "The Glebe Farm (P.232-1954 (5)c)"
 pref: 833
-secondimage: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/pd_222_1961.jpeg
-second_alt: 'Shaft of light sky study'
-image-credit: "PD.15-1968 Copyright Fitzwilliam Museum"
-geojson: dedham.json
-centroid: "51.95403203180633,1.031792163848877"
-quote: "I should paint my own places best; painting with me is but another word for feeling"
+geojson: Walk-C-11-JULY.json
+centroid: "51.963850, 1.007635"
+quote: "With frequent foot pleased have I in my cheerful morn of life, when nursed by careless solitude I lived and sung of Nature with unceasing joy, pleased have I wandered o'er your fair domain."
 byline: "John Constable"
-sceneset: "A short description of the image that this walk pertains to. Tell us a little to set the scene.
-Don't say too much here."
+sceneset: "Langham to East Bergholt via Dedham ..."
 images: 
     - 
       file:
