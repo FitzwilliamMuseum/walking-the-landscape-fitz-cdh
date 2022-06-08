@@ -28,6 +28,7 @@ url: "https://walking-the-landscape.fitzmuseum.cam.ac.uk" # the base hostname & 
 twitter_username: fitzmuseum_uk
 github_username:  fitzwilliammuseum
 fitz_collection_url: https://data.fitzmuseum.cam.ac.uk/id/object/
+permalink: pretty
 # Build settings
 plugins:
   - jekyll-feed
@@ -47,7 +48,7 @@ collections:
       permalink: /:collection/:path/
    posts:
      output: true
-     permalink: /blog/:path/
+     permalink: /blog/:slug/
 sass:
   style: compressed
 # Exclude from processing.
