@@ -2,12 +2,12 @@
 title: "Constable’s printed landscapes"
 layout: post
 image: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/posts/PR-FITZWILLIAM-P-01353-R-000-00001_Blog-Crop-preview.jpg
-lead_image: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/posts/PR-FITZWILLIAM-P-01353-R-000-00001_Blog-Crop1.jpg 
+lead_image: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/posts/PR-FITZWILLIAM-P-01353-R-000-00001_Blog-Crop1.jpg
 alt_text: "A close-up from 'A Mill (P.1353-R)'"
 excerpt: "In 1829 John Constable took on a young printmaker to engrave a series of prints after his own works, which would become known as English Landscape."
 author: Elenor Ling
-manifest: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00001-B
-manifest: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00002-B
+manifestOne: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00001-B
+manifestTwo: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00002-B
 ---
 
 In 1829 John Constable took on a young printmaker to engrave a series of prints after his own works, which would become known as English Landscape.
@@ -24,11 +24,8 @@ What were the landscapes? Twenty-two subjects were eventually chosen, published 
 
 What’s interesting is that when Constable spoke and wrote on the topic of landscape later in life, he used many of these East-Anglian scenes in an all-encompassing way, to ‘characterise the scenery of England’. That was how he introduced the prints on the set’s title page: ‘VARIOUS SUBJECTS OF / LANDSCAPE / CHARACTERISTIC OF ENGLISH SCENERY…’ Just over half the plates, however, were Suffolk/Essex subjects, mostly around Constable’s birthplace in East Bergholt and hardly representative of the whole country.
 
-!manifest: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00001-B
+<iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ post.manifestOne }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="100%" height="600" allowfullscreen frameborder="0"></iframe>
 
 The prints have general titles: the scene of a common in East Bergholt with his father’s flour mill, in which Constable had worked and knew intimately, is given only a general title, ‘Spring’; the same is true of many others - ‘Autumnal Sun Set’, ‘Noon’ and ‘Summer Afternoon – After a Shower’. They are characteristic of something else entirely: of seasons, times of day and states of weather. Constable had made it his life’s work to study landscape through close observation of natural phenomena, and these temporal and atmospheric concerns were important to him, much more so than producing a set of illustrative, picturesque views. To be continued…
 
-!manifest: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00002-B
-
-
-
+<iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ post.manifestTwo }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="100%" height="600" allowfullscreen frameborder="0"></iframe>
