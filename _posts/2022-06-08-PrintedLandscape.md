@@ -2,11 +2,12 @@
 title: "Constable’s printed landscapes"
 layout: post
 image: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/posts/PR-FITZWILLIAM-P-01353-R-000-00001_Blog-Crop-preview.jpg
-lead_image: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/posts/ 
+lead_image: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/posts/PR-FITZWILLIAM-P-01353-R-000-00001_Blog-Crop1.jpg 
 alt_text: "A close-up from 'A Mill (P.1353-R)'"
 excerpt: "In 1829 John Constable took on a young printmaker to engrave a series of prints after his own works, which would become known as English Landscape."
 author: Elenor Ling
 manifest: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00001-B
+manifest: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00002-B
 ---
 
 In 1829 John Constable took on a young printmaker to engrave a series of prints after his own works, which would become known as English Landscape.
