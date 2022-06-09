@@ -1,8 +1,8 @@
 ---
 title: Walking with Constable
 layout: default
-image: "https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/588/729/mid_P_1489_R_mas.jpg"
-alt: "A print of Constable's Glebe Farm"
+image: "https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/Constable-Collection.jpg"
+alt: "Walking with Constable collection image"
 ---
 <section class="mw5 mw7-ns center bg-light-gray pa3 ph5-ns">
 <img src="{{ page.image }}" alt="{{ page.alt }}" class="w-100" />
