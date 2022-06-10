@@ -1,26 +1,25 @@
 # Walking the landscape
 
-This repository holds the code for a very simple minimum viable product which will
-provide a vehicle for a collaborative Fitzwilliam Museum and Cambridge Digital Humanities
-project.
+![Repository social card](https://repository-images.githubusercontent.com/465292641/5f9838da-c16f-4971-b2af-b4ec35f16e0c)
 
-This project will focus on the landscapes documented by John Constable and his print maker
-David Lucas, and digital humanities/ phenomenological responses to walking tours within
-these depicted locations.
+This repository holds the code for a very simple minimum viable product which will provide a vehicle for a collaborative [Fitzwilliam Museum](https://fitzmuseum.cam.ac.uk) and [Cambridge Digital Humanities](https://cdh.cam.ac.uk) project.
+
+This project will focus on the landscapes documented by John Constable and his print maker David Lucas, and digital humanities/ phenomenological responses to walking tours within
+these depicted locations. The project will hold IIIF images, audio, video, prose and other user contributed content based on walking tours in Suffolk in June/July 2022.
 
 ## Project team
 
-* [Elenor Ling, The Fitzwilliam Museum](_team/elenor-ling.md)
-* [Harry Metcalf, The Fitzwilliam Museum](/_team/harry-metcalf.md)
-* [Kate Noble, The Fitzwilliam Museum](/_team/kate-noble.md)
-* [Daniel Pett, The Fitzwilliam Museum/ St. Edmund's College](/_team/daniel-pett.md)
-* [Caroline Bassett, Cambridge Digital Humanities/ Christ's College](_team/caroline-bassett.md)
-* [Neal Spencer, The Fitzwilliam Museum](/_team/neal-spencer.md)
-* [Andrew Corrigan, Cambridge Digital Humanities](_team/andrew-corrigan.md)
-* [Mary Chester-Kadwell, Cambridge Digital Humanities/University Library](/_team/mary-chester-kadwell.md)
-* [Tom Crowley, Museum of Archaeology and Anthropology](/_team/tom-crowley.md)
-* [Annja Neumann, Magdalene College, Cambridge Digital Humanities](/_team/annja-neumann.md)
-* [Leo Impett, Cambridge Digital Humanities](/_team/leo-impett.md)
+* [Elenor Ling, The Fitzwilliam Museum](https://walking-the-landscape.fitzmuseum.cam.ac.uk/team/elenor-ling)
+* [Harry Metcalf, The Fitzwilliam Museum](https://walking-the-landscape.fitzmuseum.cam.ac.uk/team/harry-metcalf)
+* [Kate Noble, The Fitzwilliam Museum](https://walking-the-landscape.fitzmuseum.cam.ac.uk/team/kate-noble)
+* [Daniel Pett, The Fitzwilliam Museum/ St. Edmund's College](https://walking-the-landscape.fitzmuseum.cam.ac.uk/team/daniel-pett)
+* [Caroline Bassett, Cambridge Digital Humanities/ Christ's College](https://walking-the-landscape.fitzmuseum.cam.ac.uk/team/caroline-bassett)
+* [Neal Spencer, The Fitzwilliam Museum](https://walking-the-landscape.fitzmuseum.cam.ac.uk/team/neal-spencer)
+* [Andrew Corrigan, Cambridge Digital Humanities](https://walking-the-landscape.fitzmuseum.cam.ac.uk/team/andrew-corrigan)
+* [Mary Chester-Kadwell, Cambridge Digital Humanities/University Library](https://walking-the-landscape.fitzmuseum.cam.ac.uk/team/mary-chester-kadwell)
+* [Tom Crowley, Museum of Archaeology and Anthropology](https://walking-the-landscape.fitzmuseum.cam.ac.uk/team/tom-crowley)
+* [Annja Neumann, Magdalene College, Cambridge Digital Humanities](https://walking-the-landscape.fitzmuseum.cam.ac.uk/team/annja-neumann)
+* [Leo Impett, Cambridge Digital Humanities](https://walking-the-landscape.fitzmuseum.cam.ac.uk/team/leo-impett)
 
 ## Code License
 
@@ -35,6 +34,8 @@ licensed material. We endeavour to mark these explicitly.
 
 1. [Tachyons framework](https://tachyons.io)
 2. [Jekyll Github Pages](https://github.com/github/pages-gem)
+
+This project builds on designs created for the [Most Sacred Things project](https://amor.fitz.ms) from the Fitzwilliam Museum. 
 
 ## To run this project locally
 
