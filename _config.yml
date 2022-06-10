@@ -49,6 +49,9 @@ collections:
    posts:
      output: true
      permalink: /blog/:slug/
+   participants:
+     output: true
+     permalink: /participants/:slug/
 sass:
   style: compressed
 # Exclude from processing.
