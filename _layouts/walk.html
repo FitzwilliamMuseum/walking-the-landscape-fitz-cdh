@@ -20,9 +20,11 @@
 
         <div class="measure f3 center mv5 black-70">
             <h1 class="fw6 f3 avenir">{{ page.walk_byline }}</h1>
-            {{ page.content }}
-        </div>
 
+        </div>
+        <div class="f5 f4-ns fw3 black-80 mv3 mv4-ns">
+          {{ page.content }}
+        </div>
         <img src="{{ page.secondimage }}" class="db w-100" alt="{{ page.second_alt }}"/>
 
         {% include blockquote.html %}
@@ -30,10 +32,11 @@
     </div>
 
     {% include walking_map.html %}
-
-  <!--  {% include walk_images.html %} -->
 </article>
+<section class="ph7-ns pl4 pr4 mt3 mb3 bg-white">
+  {% include post_tags.html %}
 
-{% include post_tags.html %}
+</section>
+
 
 {% include footer.html %}
