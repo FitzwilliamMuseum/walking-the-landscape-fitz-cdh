@@ -665,8 +665,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "The Glebe Farm (P.232-1954 (5)c)",
-        "link": "https://cudl.lib.cam.ac.uk/view/PR-FITZWILLIAM-P-00232-01954-00005-C",
-        "": ""
+        "link": "https://cudl.lib.cam.ac.uk/view/PR-FITZWILLIAM-P-00232-01954-00005-C"
       },
       "geometry": {
         "type": "Point",
@@ -683,8 +682,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "A Mill",
-        "link": "https://cudl.lib.cam.ac.uk/view/PR-FITZWILLIAM-P-01360-R",
-        "": ""
+        "link": "https://cudl.lib.cam.ac.uk/view/PR-FITZWILLIAM-P-01360-R"
       },
       "geometry": {
         "type": "Point",
@@ -692,7 +690,7 @@
           0.9925353527069092,
           51.9619989186887
         ]
-        
+
       }
     },
     {
@@ -702,8 +700,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Summer Evening (P.232-1954 (2)b)",
-        "link": "https://cudl.lib.cam.ac.uk/view/PR-FITZWILLIAM-P-00232-01954-00002-B",
-        "": ""
+        "link": "https://cudl.lib.cam.ac.uk/view/PR-FITZWILLIAM-P-00232-01954-00002-B"
       },
       "geometry": {
         "type": "Point",
@@ -720,8 +717,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Frontispiece. East Bergholt, Suffolk (P.232-1954 (1)a)",
-        "link": "https://cudl.lib.cam.ac.uk/view/PR-FITZWILLIAM-P-00232-01954-00001-A",
-        "": ""
+        "link": "https://cudl.lib.cam.ac.uk/view/PR-FITZWILLIAM-P-00232-01954-00001-A"
       },
       "geometry": {
         "type": "Point",
