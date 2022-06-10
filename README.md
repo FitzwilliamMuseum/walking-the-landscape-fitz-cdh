@@ -10,19 +10,21 @@ these depicted locations.
 
 ## Project team
 
-* Elenor Ling, The Fitzwilliam Museum
-* Harry Metcalfe, The Fitzwilliam Museum
-* Kate Noble, The Fitzwilliam Museum
-* Daniel Pett, The Fitzwilliam Museum/ St. Edmund's College
-* Caroline Bassett, Cambridge Digital Humanities/ Christ's College
-* Neal Spencer, The Fitzwilliam Museum
-* Andrew Corrigan, Cambridge Digital Humanities
-* Mary Chester-Kadwell, Cambridge Digital Humanities/University Library
-* Tom Crowley, Museum of Archaeology and Anthropology
+* [Elenor Ling, The Fitzwilliam Museum](_team/elenor-ling.md)
+* [Harry Metcalf, The Fitzwilliam Museum](/_team/harry-metcalf.md)
+* [Kate Noble, The Fitzwilliam Museum](/_team/kate-noble.md)
+* [Daniel Pett, The Fitzwilliam Museum/ St. Edmund's College](/_team/daniel-pett.md)
+* [Caroline Bassett, Cambridge Digital Humanities/ Christ's College](_team/caroline-bassett.md)
+* [Neal Spencer, The Fitzwilliam Museum](/_team/neal-spencer.md)
+* [Andrew Corrigan, Cambridge Digital Humanities](_team/andrew-corrigan.md)
+* [Mary Chester-Kadwell, Cambridge Digital Humanities/University Library](/_team/mary-chester-kadwell.md)
+* [Tom Crowley, Museum of Archaeology and Anthropology](/_team/tom-crowley.md)
+* [Annja Neumann, Magdalene College, Cambridge Digital Humanities](/_team/annja-neumann.md)
+* [Leo Impett, Cambridge Digital Humanities](/_team/leo-impett.md)
 
 ## Code License
 
-This software is licensed under GPLv3
+This software is licensed under [GPLv3](LICENSE.md)
 
 ## Content License
 
@@ -32,7 +34,7 @@ licensed material. We endeavour to mark these explicitly.
 ## Third party software included
 
 1. [Tachyons framework](https://tachyons.io)
-2. [Jekyll Github Pages](https://github.com/github/pages-gem) 
+2. [Jekyll Github Pages](https://github.com/github/pages-gem)
 
 ## To run this project locally
 
@@ -57,3 +59,23 @@ To contribute to this project, please following a branching and pull request met
 2. Use explicit commit messages with clear titles for your enhancements
 3. Push your branch
 4. Issue a pull request and ask for code review
+
+## Citing this code
+
+[Citation CFF](CITATION.cff)
+
+APA:
+
+Pett, D., & Corrigan, A. (2022). Walking the Landscape, A Fitzwilliam Museum and CDH collaboration (Version 1.0.0) [Computer software]. https://github.com/FitzwilliamMuseum/walking-the-landscape-fitz-cdh
+
+BIBTEX:
+
+@software{Pett_Walking_the_Landscape_2022,
+author = {Pett, Daniel and Corrigan, Andrew},
+license = {GPLV3},
+month = {5},
+title = {{Walking the Landscape, A Fitzwilliam Museum and CDH collaboration}},
+url = {https://github.com/FitzwilliamMuseum/walking-the-landscape-fitz-cdh},
+version = {1.0.0},
+year = {2022}
+}
