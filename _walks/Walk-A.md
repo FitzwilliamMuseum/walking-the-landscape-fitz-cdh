@@ -2,7 +2,7 @@
 title: "Walk A: East Bergholt to Dedham via Flatford"
 walk_byline: "East Bergholt to Dedham via Flatford"
 layout: walk
-excerpt: "East Bergholt to Dedham via Flatford. These are three key locations for Constable's formative years: his father, Golding Constable, owned mills in each of these places. Constable's family home was situated in East Bergholt, and John trod the path to Dedham every day to school."
+excerpt: "These are three key locations for Constable's formative years: his father, Golding Constable, owned mills in each of these places. Constable's family home was situated in East Bergholt, and John trod the path to Dedham every day to school."
 author: Elenor Ling
 preview: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/walks/PR-FITZWILLIAM-P-00232-01954-00001-B-000-00001_crop_preview.jpg
 image: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/walks/PR-FITZWILLIAM-P-00232-01954-00001-B-000-00001_crop.jpg
