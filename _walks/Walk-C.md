@@ -13,16 +13,16 @@ centroid: "51.963850, 1.007635"
 quote: "With frequent foot pleased have I in my cheerful morn of life, when nursed by careless solitude I lived and sung of Nature with unceasing joy, pleased have I wandered o'er your fair domain."
 byline: "John Constable"
 sceneset: "Langham to East Bergholt via Dedham ..."
-images: 
-    - 
+images:
+    -
       file:
       caption:
       permalink:
     -
       file:
       caption:
-      permalink: 
-tags: [suffolk,printmaking,constable]
+      permalink:
+tags: [Suffolk,Printmaking,Constable]
 ---
 <p class="lh-copy measure f4 f3-ns black-70 baskerville">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore

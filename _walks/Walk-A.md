@@ -25,7 +25,7 @@ images:
       file:
       caption:
       permalink:
-tags: [suffolk,printmaking,constable]
+tags: [Suffolk,Printmaking,Constable]
 ---
 <iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestOne }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="100%" height="600" allowfullscreen frameborder="0"></iframe>
 
