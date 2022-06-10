@@ -10,9 +10,9 @@
         <article class="ph3">
 
             <h1 class="f3 f2-ns black-90 nowrap">{{ page.title }} <br>
-                <small class="fw4 gray f4 f3-ns nowrap">by {{ page.author }}</small>
+                <small class="fw4 f4 f3-ns nowrap berry">by {{ page.author }}</small>
             </h1>
-            <h2 class="f6 fw4 mv0 black-60">
+            <h2 class="f4 fw4 mv0 black-60">
                 <time datetime="2016-03-24 00:00:00 +0000">{{ page.date | date: "%A, %b %d %Y" }}</time>
             </h2>
 
@@ -24,29 +24,17 @@
               {% include universal-viewer.html %}
             {% endif %}
 
-            <aside class="flex flex-wrap items-center justify-start black-70 mv4">
-                <button type="button"
-                        class="pointer black-70 f6 tracked-tight override-sans-serif nowrap bg-light-gray hover-bg-black-20 ba b--none br2 pa2 mr2 mv1">
-                    Constable
-                </button>
-                <button type="button"
-                        class="pointer black-70 f6 tracked-tight override-sans-serif nowrap bg-light-gray hover-bg-black-20 ba b--none br2 pa2 mr2 mv1">
-                    Lucas
-                </button>
-                <button type="button"
-                        class="pointer black-70 f6 tracked-tight override-sans-serif nowrap bg-light-gray hover-bg-black-20 ba b--none br2 pa2 mr2 mv1">
-                    Printmaking
-                </button>
-                <button type="button"
-                        class="pointer black-70 f6 tracked-tight override-sans-serif nowrap bg-light-gray hover-bg-black-20 ba b--none br2 pa2 mr2 mv1">
-                    Example tags
-                </button>
-            </aside>
             {% if page.geojson %}
-            <section class="w-100 pa2">
-                <div id="map" style="width: 100%; height: 500px;"></div>
+            <section class="w-100 pv4">
+              <h3 class="f4 fw4 mv0 black-60 tc">
+                  Visualise the landscape
+              </h3>
+                <div id="map"></div>
             </section>
             {% endif %}
+
+            {% include post_tags.html %}
+
         </article>
 
 {% include footer.html %}
