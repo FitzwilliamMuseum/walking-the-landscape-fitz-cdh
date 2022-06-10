@@ -14,7 +14,7 @@ In 1829 John Constable took on a young printmaker to engrave a series of prints 
 
 The printmaker was David Lucas (1802–1881), and he specialised in a technique called mezzotint, whereby images are composed of tone, in a network of tiny dots, with light picked out of darkness. The printmaker has a laborious start. S/he pits surface of a metal plate repeatedly with a tool called a rocker. Each of these tiny pits will hold printing ink, and first the plate must be evenly and fully rocked. Printed at that point impressions would be entirely black, so to achieve an image the printmaker scrapes and polishes the surface, reducing or removing the pits, creating areas of varying, velvety tone.
 
-![A close-up from 'A Mill (P.1353-R)'](https://raw.githubusercontent.com/FitzwilliamMuseum/walking-the-landscape-fitz-cdh/main/images/posts/PR-FITZWILLIAM-P-01353-R-000-00001_Blog-Crop.jpg)
+![A close-up from 'A Mill (P.1353-R)']({{site.url}}/images/posts/PR-FITZWILLIAM-P-01353-R-000-00001_Blog-Crop.jpg)
 
 The two men worked in close collaboration: Lucas would adapt and realise Constable’s works onto steel plates, and pull proof impressions to send to his employer. Constable returned them with instructions for changes, sometimes drawing on or daubing an impression to emphasise what he meant. Some directives would be specific (‘sun cleared around its orb’) while others were a little more vague (‘the shower a little darker here & there’), or even quite poetic (‘rays of light crushed’), revealing the heightened, intuitive bond the artists came to achieve.
 
