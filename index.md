@@ -10,7 +10,7 @@ alt: "Walking with Constable collection image"
 > "This spot saw the day spring of my Life, Hours of Joy, and years of Happiness, This place first tinged my boyish fancy with a love of the art, This place was the origin of my fame."
 {: .ph0 .f1 .lh-title .measure-narrow .center .berry .fw9}
 
-Constable’s connection with the countryside, his intimate familiarity with rural life, is evident in his paintings, drawings, and prints, in his choice of subjects and his attentive observation of the smallest detail of the natural world.
+Constable's connection with the countryside and intimate familiarity with rural life is evident in his paintings, drawings and prints, in his choice of subjects and attentive observation of the smallest detail of the natural world. Moreover, Constable was convinced that it was the Stour Valley, on the Suffolk-Essex border, that made him a painter.
 
 This project uses digital technologies to take prints locked in a museum back into the landscape which made them, which represents them, and of which they are part. Using digital techniologies that enable us to pinpoint and ‘see’ various Constable compositions we will curate a series of public walks in landscapes Constable sketched, documenting them to produce a walking diary as a form of public writing.
 
