@@ -31,7 +31,7 @@ tags: [Suffolk,Printmaking,Constable]
 
 We start in the centre of the town in which Constable's father, Golding Constable, built a new house in 1774, moving his family from their home in a mill house in Flatford, a mile south on the river Stour [literally, a 'flat ford' settlement, where cattle could cross].
 
-The walk traces the sites of the mills in the family business, first a windmill on East Bergholt heath, in which John worked, watching the sky and learning to understand cloud patterns. We'll read and discuss Constable's text on this location written around 1833 for the second edition of 'English Landscape'.
+The walk traces the sites of the mills in the family business, first a windmill on East Bergholt common, in which John worked, watching the sky and learning to understand cloud patterns. We’ll read and discuss Constable’s text on this location written around 1833-35 for a later edition of ‘English Landscape’.
 
 We then move onward to sites of watermills at Flatford and Dedham. London was the destination for the flour and corn produced here, transported in the Constable firm's barges via the estuary at Mistley on the east coast.
 
