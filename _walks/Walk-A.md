@@ -8,6 +8,7 @@ preview: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/walks/PR-FITZ
 image: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/walks/PR-FITZWILLIAM-P-00232-01954-00001-B-000-00001_crop.jpg
 alt: 'Spring'
 pref: 833
+walkDate: 2022-06-13
 geojson: Walk-A-13-JUNE.json
 centroid: "51.963850, 1.007635"
 manifestOne: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00001-B
