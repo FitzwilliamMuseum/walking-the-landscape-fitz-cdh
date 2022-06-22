@@ -16,7 +16,7 @@ manifestTwo: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00002
 manifestThree: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00001-A
 quote: "With frequent foot pleased have I in my cheerful morn of life, when nursed by careless solitude I lived and sung of Nature with unceasing joy, pleased have I wandered o'er your fair domain."
 byline: "John Constable"
-sceneset: "A quintessential cottage and a hunt for home"
+sceneset: "A quintessential cottage and a hunt for home."
 images:
     -
       file:
