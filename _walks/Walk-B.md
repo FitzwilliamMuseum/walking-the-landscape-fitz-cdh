@@ -15,7 +15,7 @@ manifestOne: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00158-01955
 manifestTwo: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00001-C
 quote: "Through the lighten'd air a higher lustre and a clearer calm diffusive tremble."
 byline: "John Constable"
-sceneset: "On this walk..."
+sceneset: "Rainbows, Flemish weavers and long-trodden paths"
 images:
     -
       file:
