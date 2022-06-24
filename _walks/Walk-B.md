@@ -1,5 +1,5 @@
 ---
-title: "Walk C: Langham to East Bergholt via Dedham"
+title: "Walk B: Langham to East Bergholt via Dedham"
 walk_byline: "Langham to East Bergholt via Dedham"
 layout: walk
 excerpt: "We'll walk from Langham to East Bergholt via Dedham. These are..."
@@ -8,7 +8,7 @@ preview: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/walks/PR-FITZ
 image: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/walks/PR-FITZWILLIAM-P-00232-01954-00005-C-000-00001_crop.jpg
 alt: "The Glebe Farm (P.232-1954 (5)c)"
 pref: 833
-walkDate: 2022-07-11
+walkDate: 2022-07-06
 geojson: Walk-C-11-JULY.json
 centroid: "51.963850, 1.007635"
 manifestOne: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00005-C
