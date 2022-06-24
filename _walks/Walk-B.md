@@ -9,7 +9,7 @@ image: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/walks/PR-FITZWI
 alt: "The Glebe Farm (P.232-1954 (5)c)"
 pref: 833
 walkDate: 2022-07-06
-geojson: Walk-C-11-JULY.json
+geojson: Walk-B-06-JULY.json
 centroid: "51.963850, 1.007635"
 manifestOne: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00005-C
 manifestTwo: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00002-B
