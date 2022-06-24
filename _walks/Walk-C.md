@@ -9,7 +9,7 @@ image: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/walks/PR-FITZWI
 alt: "Stoke-by-Neyland, Suffolk (P.158-1955)"
 pref: 833
 walkDate: 2022-07-11
-geojson: Walk-B-06-JULY.json
+geojson: Walk-C-11-JULY.json
 centroid: "51.963850, 1.007635"
 manifestOne: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00158-01955
 manifestTwo: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00001-C
