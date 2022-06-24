@@ -1,5 +1,5 @@
 ---
-title: "Walk B: Stoke-by-Nayland to East Bergholt"
+title: "Walk C: Stoke-by-Nayland to East Bergholt"
 walk_byline: "Stoke-by-Nayland to East Bergholt"
 layout: walk
 excerpt: "We'll walk from Stoke-by-Nayland to East Bergholt."
@@ -8,7 +8,7 @@ preview: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/walks/PR-FITZ
 image: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/walks/PR-FITZWILLIAM-P-00158-01955-000-00001_crop.jpg
 alt: "Stoke-by-Neyland, Suffolk (P.158-1955)"
 pref: 833
-walkDate: 2022-07-06
+walkDate: 2022-07-11
 geojson: Walk-B-06-JULY.json
 centroid: "51.963850, 1.007635"
 manifestOne: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00158-01955
