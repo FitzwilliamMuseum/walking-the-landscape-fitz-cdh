@@ -28,7 +28,7 @@ images:
       permalink:
 tags: [Suffolk,Printmaking,Constable]
 ---
-The starting point for this walk is the quiet village of Langham, on the south side of Dedham Vale, 3 miles as the crow flies south-west of East Bergholt. We will try to find the spot near Church Farm (Glebe Farm), and the viewpoint over the hill for St Mary’s Church, which Constable combined in his composition ‘The Glebe Farm’. 
+The starting point for this walk is the quiet village of Langham, on the south side of Dedham Vale, four miles as the crow flies south-west of East Bergholt. We will try to find the spot near Church Farm (Glebe Farm), and the viewpoint over the hill for St Mary’s Church, which Constable combined in his composition ‘The Glebe Farm’. 
 
 <iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestOne }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="100%" height="600" allowfullscreen frameborder="0"></iframe>
 
