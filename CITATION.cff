@@ -9,7 +9,7 @@ authors:
     given-names: Andrew
 version: 1.0.0
 date-released: 2022-05-19
-license: GPLV3
+license: AGPL-3.0
 identifiers:
   - description: "Beta Release: Constable Walking the Landscape"
     type: doi
