@@ -1,5 +1,7 @@
 # Walking the landscape
 
+[![DOI](https://zenodo.org/badge/465292641.svg)](https://zenodo.org/badge/latestdoi/465292641)
+
 ![Repository social card](https://repository-images.githubusercontent.com/465292641/5f9838da-c16f-4971-b2af-b4ec35f16e0c)
 
 This repository holds the code for a very simple minimum viable product which will provide a vehicle for a collaborative [Fitzwilliam Museum](https://fitzmuseum.cam.ac.uk) and [Cambridge Digital Humanities](https://cdh.cam.ac.uk) project.
