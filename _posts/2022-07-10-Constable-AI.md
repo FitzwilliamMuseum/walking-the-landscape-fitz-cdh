@@ -14,7 +14,7 @@ When we were discussing the text that Constable wrote to accompany the print ‘
 So that got me thinking - what would we get if we put constables words into an AI image generator?
 
 I first copied the text Constable wrote for the print 'Spring' and pasted it into a keyword generator. There are lots available online, I used this one:
-https://monkeylearn.com/keyword-extractor-online/
+[https://monkeylearn.com/keyword-extractor-online/](https://monkeylearn.com/keyword-extractor-online/)
 
 Then I input the resulting keywords into an online AI art generator, for these examples I used this one: https://neurogen.art/. These tools use the words you input to generate an image using it's neural network.
 
