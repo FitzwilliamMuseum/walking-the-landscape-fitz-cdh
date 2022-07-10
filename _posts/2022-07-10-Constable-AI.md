@@ -16,7 +16,7 @@ So that got me thinking - what would we get if we put constables words into an A
 I first copied the text Constable wrote for the print 'Spring' and pasted it into a keyword generator. There are lots available online, I used this one:
 [https://monkeylearn.com/keyword-extractor-online/](https://monkeylearn.com/keyword-extractor-online/)
 
-Then I input the resulting keywords into an online AI art generator, for these examples I used this one: https://neurogen.art/. These tools use the words you input to generate an image using it's neural network.
+Then I input the resulting keywords into an online AI art generator, for these examples I used this one: [https://neurogen.art/](https://neurogen.art/). These tools use the words you input to generate an image using it's neural network.
 
 ![Image generated using AI using Constable's text that accompanied 'Spring']({{site.url}}/images/posts/Constable-AI-01-ALL.jpg)
 
@@ -28,7 +28,7 @@ The second image is generated using the keywords extracted from ‘East Bergholt
 
 ![Image generated using AI using Constable's text that accompanied 'Stoke-by-Neyland, Suffolk']({{site.url}}/images/posts/Constable-AI-03-ALL.jpg)
 
-Finally, for the third image, I tried a couple of slightly different routes, the method I had used for the first two resulted in images that were heavy with attempts by the neural network to render graphic words. So I wondered if I was perhaps asking too much or inputting too many keywords. I tried another keyword extraction tool (https://www.cortical.io/freetools/extract-keywords/) which gave me a much smaller, more refined list. 
+Finally, for the third image, I tried a couple of slightly different routes, the method I had used for the first two resulted in images that were heavy with attempts by the neural network to render graphic words. So I wondered if I was perhaps asking too much or inputting too many keywords. I tried another keyword extraction tool ([https://www.cortical.io/freetools/extract-keywords/](https://www.cortical.io/freetools/extract-keywords/)) which gave me a much smaller, more refined list. 
 
 The results are striking, brightly coloured and sharing some similarity with the print 'Stoke-by-Neyland, Suffolk', and was generated using the accompanying text by Constable. Another striking feature is how the neural network has imagined arch-shapes that have a distinctly ecclesiastical form. These draw togethe the forms of churches and other suggestively man-made structures such as bridges, with the natural forms of rocks and rainbows, in an evocative coincidentia oppositorum.
 
