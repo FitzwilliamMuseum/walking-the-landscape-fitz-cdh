@@ -37,8 +37,11 @@ The figures in the images are incredibly strange, yet there are recognisable fea
 Finally, for the third image, I tried a couple of slightly different routes, the method I had used for the first two resulted in images that were heavy with attempts by the neural network to render graphic words. So I wondered if I was perhaps asking too much or inputting too many keywords. I tried another keyword extraction tool ([https://www.cortical.io/freetools/extract-keywords/](https://www.cortical.io/freetools/extract-keywords/)) which gave me a much smaller, more refined list:
 > rainbow, colours, arch, landscape, monuments, sun, grandeur, reflection, admiration, noble Gothic Churches, Noon
 
-The results are striking, brightly coloured and sharing some similarity with the print 'Stoke-by-Neyland, Suffolk', and was generated using the accompanying text by Constable. Another striking feature is how the neural network has imagined arch-shapes that have a distinctly ecclesiastical form. These draw togethe the forms of churches and other suggestively man-made structures such as bridges, with the natural forms of rocks and rainbows, in an evocative coincidentia oppositorum.
+The results are striking, brightly coloured and sharing some similarity with the print 'Stoke-by-Neyland, Suffolk', which you can see below, and was generated using the accompanying text by Constable. Another striking feature is how the neural network has imagined arch-shapes that have a distinctly ecclesiastical form. These draw togethe the forms of churches and other suggestively man-made structures such as bridges, with the natural forms of rocks and rainbows, in an evocative coincidentia oppositorum.
 
-For a quick experiment, I was amazed by the results!   
+For a quick experiment, I was amazed by the results! 
+
+>Amendmant 11/07/22: Serendipitously, the morning after I posted this, an article exploring some of the debate around the use of AI in art was published, which might give food for thought:
+>[Dall-E artificial intelligence art](https://www.theguardian.com/technology/2022/jul/10/dall-e-artificial-intelligence-art?)
 
 <iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestOne }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="100%" height="600" allowfullscreen frameborder="0"></iframe>
