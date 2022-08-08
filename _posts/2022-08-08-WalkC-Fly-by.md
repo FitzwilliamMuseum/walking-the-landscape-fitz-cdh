@@ -1,8 +1,8 @@
 ---
 title: "Walk C: A Fly-by"
 layout: post
-image: https://raw.githubusercontent.com/FitzwilliamMuseum/walking-the-landscape-fitz-cdh/main/images/posts/PH-GEOGRAPHY-HN-00064-000-00001_postcrop-preview.jpg
-lead_image: https://raw.githubusercontent.com/FitzwilliamMuseum/walking-the-landscape-fitz-cdh/main/images/posts/PH-GEOGRAPHY-HN-00064-000-00001_postcrop.jpg
+image: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/posts/PH-GEOGRAPHY-HN-00064-000-00001_postcrop-preview.jpg
+lead_image: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/posts/PH-GEOGRAPHY-HN-00064-000-00001_postcrop.jpg
 alt_text: "Stoke-by-Nayland, looking NW (HN64)"
 excerpt: "Stoke-by-Nayland to East Bergholt form the air..."
 author: Andy Corrigan
