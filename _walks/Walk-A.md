@@ -15,7 +15,7 @@ manifestOne: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00001
 manifestTwo: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00001-D
 manifestThree: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-01360-R
 quote: "Hence the breath of life informing each organic frame; Hence the green earth, and wild resounding waves; Hence light and shade alternate, warmth and cold, and bright and dewy clouds, and vernal show'rs, and all the fair variety of things."
-byline: "John Constable"
+byline: "The Pleasures Of Imagination, Mark Akenside, 1744"
 sceneset: "These are three key locations for Constable's formative years: his father, Golding Constable, owned mills in each of these places. Constable's family home was situated in East Bergholt, and John trod the path to Dedham every day to school."
 images:
     -
