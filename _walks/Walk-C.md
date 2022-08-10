@@ -14,7 +14,7 @@ centroid: "51.963850, 1.007635"
 manifestOne: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00158-01955
 manifestTwo: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00001-C
 quote: "Through the lighten'd air a higher lustre and a clearer calm diffusive tremble."
-byline: "John Constable"
+byline: "The Four Seasons: Summer, James Thomson, 1727"
 sceneset: "The science of rainbows, a woven history, and a long-trodden path."
 images:
     -
