@@ -33,7 +33,10 @@
         {% if page.geojson %}
         <link href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.4.0/leaflet.css" rel="stylesheet">
         {% endif %}
-        
+        {% if page.audio %}
+        <link rel="stylesheet" href="https://cdn.plyr.io/3.7.2/plyr.css" />
+
+        {% endif %}
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <link rel="stylesheet" href="https://cdn.kiprotect.com/klaro/v0.7.18/klaro.min.css" />
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-JPBNTETD9B"></script>

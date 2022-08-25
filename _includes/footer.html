@@ -95,6 +95,12 @@
 {% endif %}
 <script defer type="text/javascript" src="{{site.baseurl}}/js/config.js"></script>
 <script defer type="text/javascript" src="https://cdn.kiprotect.com/klaro/v0.7.18/klaro.js"></script>
+{% if page.audio %}
+<script defer src="https://cdn.plyr.io/3.7.2/plyr.js"></script>
+
+<script defer type="text/javascript" src="{{site.baseurl}}/js/plyr.js"></script>
+
+{% endif %}
 </body>
 
 </html>
