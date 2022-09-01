@@ -52,6 +52,8 @@ In relation to me, for instance, the illuminated figure working on the fields at
 ![As we turn around a bend, we are presented with two construction workers, who look onto Constable Country, augmented through their dazzling protective gear, picture by Caroline Bassett.]({{site.url}}/images/posts/WorkingView.jpg)
 >-- <cite>As we turn around a bend, we are presented with two construction workers, who look onto Constable Country, augmented through their dazzling protective gear, picture by Caroline Bassett.</cite>
 
+
+
 *James Thomson, ‘Summer’, 'The Seasons', London 1744. Constable quoted lines 1226–28 in his notes on the 'Nayland' plate by omitting the second part of line 1228 that reads ‘while, as if in sign /’ and continues in the next line: ‘Of danger past, a glittering robe of joy, /’.
 
 ---
