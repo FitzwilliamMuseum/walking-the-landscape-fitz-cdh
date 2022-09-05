@@ -17,12 +17,12 @@ Katie Hayward is a photographer who lives and works in the heart of Constable Co
 
 We spoke to Katie about how she came to landscape photography, what it’s like to work with Constable “breathing down the back of your neck”, and the affinity which she began to feel with him when, seeking catharsis during the lockdowns, she walked the places he’d painted. You can read a transcription of the conversation below, and listen to the audio using the player at the bottom of this post.
  
-![Images from 'AONB', Katie Hayward, by kind permission.]({{site.url}}/images/posts/KatieHayward-01.jpg)
+![Images from 'AONB', Katie Hayward, by kind permission.]({{site.url}}/images/posts/KatieHayward-02.jpg)
 >-- <cite>Images from ['AONB'](https://www.katiehaywardphotography.co.uk/aonb), Katie Hayward, by kind permission.</cite>
 
 In the recording Katie talks about some of her other photography projects. The first group, above, are from the project [AONB (Area of Natural Beauty)](https://www.katiehaywardphotography.co.uk/aonb), an attempt to get under the skin of one of England’s most idealised landscapes. The second group, below, are from the project [All Days are Sunday](https://www.katiehaywardphotography.co.uk/all-days-are-sunday), Katie’s record of lockdown, reminiscent of childhood Sundays when the shops were shut and the streets were empty. 
 
-![Images from 'All Days are Sunday', Katie Hayward, by kind permission.]({{site.url}}/images/posts/KatieHayward-01.jpg)
+![Images from 'All Days are Sunday', Katie Hayward, by kind permission.]({{site.url}}/images/posts/KatieHayward-03.jpg)
 >-- <cite>Images from ['All Days are Sunday'](https://www.katiehaywardphotography.co.uk/all-days-are-sunday), Katie Hayward, by kind permission.</cite>
 
 > **Kate Noble:** “I was just asking Katie who was saying she's got a bit of an obsession with John Constable. And I was asking her to talk about that."
