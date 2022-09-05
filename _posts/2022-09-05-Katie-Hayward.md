@@ -1,10 +1,10 @@
 ---
-title: "Photographing Constable Country and Lockdown Catharsis"
+title: "Photographing Constable Country"
 layout: post
 image: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/posts/KH-on-Walk-B-Crop-preview.jpg
 lead_image: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/posts/KH-on-Walk-B-Crop.jpg
 alt_text: "Katie Hayward joined us on Walk B, photo by Amelie Deblauwe"
-excerpt: "We spoke to Katie Hayward about her landscape photography and what it’s like to work with Constable “breathing down the back of your neck"..."
+excerpt: "We spoke to Katie Hayward about her landscape photography and what it’s like to work with Constable breathing down the back of your neck..."
 author: Tom Crowley
 audio: Katie-Hayward.mp3
 tags: [Katie Hayward,landscape,photography,walking,nature]
