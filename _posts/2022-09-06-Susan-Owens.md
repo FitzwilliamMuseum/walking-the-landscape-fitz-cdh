@@ -23,10 +23,7 @@ Coleridge is a hero of mine, but I would never have dared to scramble alongside 
 !['Track by a Pool', John Constable, c.1804]({{site.url}}/images/posts/Track-by-a-pool_PD_79_1950.jpg)
 >-- <cite>['Track by a Pool' (PD.79-1950)](https://data.fitzmuseum.cam.ac.uk/id/object/14866), John Constable, c.1804</cite>
 
-What I am trying to say is that walking alongside Constable would have been to experience the gentlest of Suffolk terrain, with lots of opportunities to sit down to enjoy the sunny, showery, breezy East Anglian farmland he was determined to draw and paint from every angle.  
-
-!['Gate post and part of gate', John Constable, c.1816]({{site.url}}/images/posts/Gate-post-2715.jpg)
->-- <cite>['Gate post and part of gate' (2715)](https://data.fitzmuseum.cam.ac.uk/id/object/14955), John Constable, c.1816</cite>
+What I am trying to say is that walking alongside Constable would have been to experience the gentlest of Suffolk terrain, with lots of opportunities to sit down to enjoy the sunny, showery, breezy East Anglian farmland he was determined to draw and paint from every angle.
 
 Even better, though, would be to have shadowed Constable while he was out walking with his close friend John Fisher. It was Fisher to whom he confided his profound emotional attachment to the landscape. I cannot imagine any other painter of the time enthusing, as Constable once did in a letter to his friend, about ‘the sound of water escaping from Mill-dams, […] Willows, Old rotten Banks, slimy posts, & brickwork’. As an afterthought, he added: ‘I love such things.’ 
 
