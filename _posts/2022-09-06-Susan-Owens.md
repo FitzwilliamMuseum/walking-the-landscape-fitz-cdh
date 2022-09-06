@@ -25,7 +25,7 @@ Coleridge is a hero of mine, but I would never have dared to scramble alongside 
 
 What I am trying to say is that walking alongside Constable would have been to experience the gentlest of Suffolk terrain, with lots of opportunities to sit down to enjoy the sunny, showery, breezy East Anglian farmland he was determined to draw and paint from every angle.  
 
-!['Gate post and part of gate' (2715), John Constable, c.1816]({{site.url}}/images/posts/Gate-post-2715.jpg)
+!['Gate post and part of gate', John Constable, c.1816]({{site.url}}/images/posts/Gate-post-2715.jpg)
 >-- <cite>['Gate post and part of gate' (2715)](https://data.fitzmuseum.cam.ac.uk/id/object/14955), John Constable, c.1816</cite>
 
 Even better, though, would be to have shadowed Constable while he was out walking with his close friend John Fisher. It was Fisher to whom he confided his profound emotional attachment to the landscape. I cannot imagine any other painter of the time enthusing, as Constable once did in a letter to his friend, about ‘the sound of water escaping from Mill-dams, […] Willows, Old rotten Banks, slimy posts, & brickwork’. As an afterthought, he added: ‘I love such things.’ 
