@@ -14,7 +14,7 @@ By incorporating the content for this project into the Cambridge Digital Library
 
 We can simultaneously go on a digital journey whilst discussing Constable’s work. For example, something that inevitably cropped up on all the [walks]({{site.url}}/walks/) is his close observation of light and weather, the most poetic apex of which, is perhaps his affection for rainbows? The simple act of [searching Cambridge Digital Library for the word “rainbow”](https://cudl.lib.cam.ac.uk/search?fileID=&keyword=rainbow) takes us into a broad landscape of content, the creation of which spans our physical world, over a thousand years, and many themes from science to religion, all a testament to humanity’s creativity, curiosity, and apparent obsession with recording the world around us. 
 
-Each node we encounter has the power to continue the journey. It's like reading one of those quest books as a child, we constantly make choices about which way we turn or what we choose to do with the objects we encounter.  
+Each node we meet has the power to continue the journey. It's like reading one of those quest books as a child, we constantly make choices about which way we turn or what we choose to do with the objects we encounter.  
 
 You can explore a brief timeline of some of the “rainbows” in Cambridge Digital Library using the virtual exhibit below.
 
