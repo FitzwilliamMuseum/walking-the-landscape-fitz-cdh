@@ -37,4 +37,4 @@ On the west side of East Bergholt, we will view the site of â€˜Autumnal Sunsetâ€
 
 We will then make our way back down into the valley and along the northern bank of the Stour towards Dedham, finishing back at the Mill Lane Car Park.
 
-In addition to the three main views will be looking at, in the route map below there are additional pinpoint links to some extra views and some historical aerial photography that reveals features in some of the locations.
+In addition to the three main views we will be looking at, in the route map below there are additional pinpoint links to extra views and some historical aerial photography that reveals features in some of the locations.
