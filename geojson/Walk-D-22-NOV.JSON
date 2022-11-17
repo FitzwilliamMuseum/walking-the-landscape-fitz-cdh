@@ -925,6 +925,23 @@
           51.973289
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Farm Surveys, Denham and Stratford St Mary (RC8GY020)",
+        "link": "https://cudl.lib.cam.ac.uk/view/PH-GEOGRAPHY-RC8GY-00020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.994977,
+          51.973831
+        ]
+      }
     }
   ]
 }
