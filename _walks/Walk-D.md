@@ -13,9 +13,9 @@ centroid: "51.963850, 1.007635"
 manifestOne: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00001-D
 manifestTwo: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00001-B
 manifestThree: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00001-C
-quote: "Nature! enchanting Nature! in whose form 
-And lineaments divine I trace a hand 
-That errs not, and find raptures still renew' d, 
+quote: "Nature! enchanting Nature! in whose form  
+And lineaments divine I trace a hand  
+That errs not, and find raptures still renew'd,  
 Is free to all men - universal prize."
 byline: "The Task, Book III ─ The Garden, William Cowper, 1785"
 sceneset: "A circular route exploring three key locations for Constable's formative years."
