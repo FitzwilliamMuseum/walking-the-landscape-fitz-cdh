@@ -15,7 +15,7 @@ The church was open and we went inside to admire the interior. Two of our guest 
 ![Image: Two framed ‘English Landscape’ mezzotints in St Mary the Virgin, East Bergholt]({{site.url}}/images/posts/To-Miss-E-Arnott.jpg)
 >-- <cite>Two framed ‘English Landscape’ mezzotints in St Mary the Virgin, East Bergholt</cite>
 
-Often when works on paper are framed any annotations on the sheet are covered up for neatness, but the apertures on these two mounts has been cut quite unusually generously in order to show the words in full:
+Often when works on paper are framed any annotations are covered up, but in the first, Constable's note more or less corresponds to the area of the printed inscription, and in the second, a little peek hole has been cut to reveal his note in the corner:
 
 >To Miss E Arnott,   
 >With Mr Constable’s kind regards / May 1833
@@ -29,6 +29,6 @@ The Arnotts were another well-connected Suffolk family, who knew the Constables 
 
 Constable’s family members also mention the Arnotts in their letters: John passes on the daughter’s best wishes to his brother Abram in East Bergholt in 1819 and years later in 1833, in the last dated reference to the family, Abram writes to John from Flatford, ‘the Arnotts are kind and always are’. The dedication on the prints, published 1831, extend the range captured in the surviving letters: sent to Miss Arnott three months after Abram’s letter. 
 
-Constable selected as gifts two scenes he knew will please Miss E. Arnott: the Constable’s home, East Bergholt House (you can see our copy of this print below), and Mill Stream, in Flatford, showing a portion of Willy Lott’s house (William Lott (1761-1849), tenant farmer, is also buried in the churchyard at St Mary the Virgin). The prints could not be folded and sent as could letters. They are records of personal contact outside the traditional ‘correspondence’, perhaps delivered by hand in an unrecorded meeting of one of the Constable family members and their old friends. 
+Constable selected as gifts two scenes he knew will please Miss E. Arnott: the Constable’s home, East Bergholt House (you can see our impression of this print below), and Mill Stream, in Flatford, showing a portion of Willy Lott’s house (William Lott (1761-1849), tenant farmer, is also buried in the churchyard at St Mary the Virgin). The prints could not be folded and sent as could letters. They are records of personal contact outside the traditional ‘correspondence’, perhaps delivered by hand in an unrecorded meeting of one of the Constable family members and their old friends. 
 
 <iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestOne }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="100%" height="600" allowfullscreen frameborder="0"></iframe>
