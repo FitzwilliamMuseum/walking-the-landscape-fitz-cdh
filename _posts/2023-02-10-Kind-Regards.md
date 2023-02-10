@@ -4,7 +4,7 @@ layout: post
 image: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/posts/KindRegards_preview.jpg
 lead_image: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/posts/KindRegards.jpg
 alt_text: "Works by the artists Graham Murrell (photograph) and Kate Boucher (two works in charcoal), by kind permission"
-excerpt: "Discovering a lasting record of an ephemeral contact"
+excerpt: "We discover a lasting record of an ephemeral contact"
 author: Elenor Ling
 manifestOne: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00001-A
 ---
