@@ -25,7 +25,7 @@ We were then joined on [Walk C]({{site.url}}/walks/Walk-B/) by Emma Roodhouse, A
 I eagerly anticipated an interesting trip to see the exhibition for myself back in August 2022, but what I didn’t expect was how deeply the sensation of partaking in the work mirrored the augmented reality process that we have been using in our ‘Walking with Constable’ project. Suspended in the gallery space, the viewer could move around and between the silk cyanotypes, which are so fine that they have a transparency. The reason behind this was ostensibly to invoke a sense of time, place and memory, so the fact that it brought to my mind, and so vividly, the sense of what it was like to view our prints using augmented reality at the locations of their settings, seems such a perfect parallel as to steadfastly weave our wandering thread to link them together. 
 
 ![A screen-capture of 'Spring (P.232-1954 (1)b)' as viewed in augmented reality on East Bergholt Common]({{site.url}}/images/posts/Meteorologist-Skies_crop.jpg)
->-- <cite>A screen-capture of 'Spring (P.232-1954 (1)b)' as viewed in augmented reality on East Bergholt Common</cite>
+>-- <cite>A screen-capture of ['Spring (P.232-1954 (1)b)'](https://cudl.lib.cam.ac.uk/view/PR-FITZWILLIAM-P-00232-01954-00001-B/1) as viewed in augmented reality on East Bergholt Common</cite>
 
 You can see more examples of screen-capture images demonstrating our augmented reality views in the collection of images that we recorded on our trips:
 <iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestOne }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="100%" height="600" allowfullscreen frameborder="0"></iframe>
