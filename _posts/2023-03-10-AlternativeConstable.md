@@ -2,9 +2,9 @@
 title: "Alternative Constable"
 layout: post
 image: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/posts/Alt-Constable_preview.jpg
-lead_image: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/posts/SAlt-Constable.jpg
+lead_image: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/posts/Alt-Constable.jpg
 alt_text: "The Landscapes at Noon project, cyanotype images on silk of Willy Lott's house. On display at Christchurch Mansion, Ipswich in August 2022"
-excerpt: "As we look, talk and share perspectives we see something new, something different. We reach a new understanding."
+excerpt: "A trip to see ‘Recreating Constable’ provides the perfect opportunity to weave together conversations around the use of nature in the image making process"
 author: Andy Corrigan
 manifestOne: https://cudl.lib.cam.ac.uk/iiif/PH-CONSTABLE-RECCE/range/ITEM-88
 ---
@@ -14,7 +14,7 @@ So, my ears pricked-up when, on [Walk A]({{site.url}}/walks/Walk-A/), Roisin Ram
 
 Alternative photographic processes and camera-less photography also cropped up on [Walk B]({{site.url}}/walks/Walk-B/) after a conversation, about using wild plants as dyes and fixatives, led to us discussing ways of physically incorporating elements of nature into the image making process. The cyanotypes created for ‘Landscapes at Noon’ had been developed using water extracted from the River Stour, a wonderful way to incorporate a sense of place and for nature itself to become a part of the creation process. We also discussed photographic artist [Susan Derges](https://www.susanderges.com/), who specialises in using camera-less photographic processes within the natural landscape. For example, she creates large scale photograms by submersing photographic paper into bodies of water, using the moon-light to expose them. Perhaps at a different end of the spectrum of using nature, we also discussed another camera-less photographic artist, [Pierre Cordier]( http://www.chemigram.com), who’s work intersects the boundaries of painting and photography in a technique he developed called the chemigram, which uses chemical and physical reactions to create photographic images. 
 
-We were then joined on [Walk C]( ]({{site.url}}/walks/Walk-B/) by Emma Roodhouse, Art Collections & Learning Curator at Colchester and Ipswich Museums Service, who discussed [‘Recreating Constable’](https://ipswich.cimuseums.org.uk/exhibitions/recreating-constable/), the exhibition at [Christchurch Mansion](https://ipswich.cimuseums.org.uk/visit/christchurch-mansion/) in Ipswich that was open at the time. The exhibition took the work of Constable and his Suffolk contemporaries as inspiration to explore the work created for the ‘Landscapes at Noon’ project – so I hadn’t missed my chance to see it after all!
+We were then joined on [Walk C]({{site.url}}/walks/Walk-B/) by Emma Roodhouse, Art Collections & Learning Curator at Colchester and Ipswich Museums Service, who discussed [‘Recreating Constable’](https://ipswich.cimuseums.org.uk/exhibitions/recreating-constable/), the exhibition at [Christchurch Mansion](https://ipswich.cimuseums.org.uk/visit/christchurch-mansion/) in Ipswich that was open at the time. The exhibition took the work of Constable and his Suffolk contemporaries as inspiration to explore the work created for the ‘Landscapes at Noon’ project – so I hadn’t missed my chance to see it after all!
 
 ![Landscapes at Noon, installed at Christchurch Mansion, Ipswich]({{site.url}}/images/posts/LandscapesAtNoon.jpg)
 >-- <cite>Landscapes at Noon, installed at Christchurch Mansion, Ipswich, by kind permission</cite>
