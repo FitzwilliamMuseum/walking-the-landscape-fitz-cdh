@@ -6,7 +6,7 @@ lead_image: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/posts/Alt-
 alt_text: "The Landscapes at Noon project, cyanotype images on silk of Willy Lott's house. On display at Christchurch Mansion, Ipswich in August 2022"
 excerpt: "A trip to see ‘Recreating Constable’ provides the perfect opportunity to weave together conversations around the use of nature in the image making process"
 author: Andy Corrigan
-manifestOne: https://cudl.lib.cam.ac.uk/iiif/PH-CONSTABLE-RECCE/range/ITEM-88
+manifestOne: https://cudl.lib.cam.ac.uk/iiif/PH-CONSTABLE-RECCE/canvas/88
 ---
 When I was 13, my parents gave me my first SLR camera as a birthday present. The seed of a passion for all things photography had been planted. I was fascinated by the magical way in which the combination of light and chemicals can create an image. From the moment the secrets of this magic where first tamed, photographic technology has been consistently advancing at great pace. But interacting with it in its most raw form, these days referred to as ‘alternative photographic processes’, still retains a spell-like charm over those who encounter it and the sense of awe the experience evokes. 
 
