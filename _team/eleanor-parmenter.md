@@ -4,7 +4,7 @@ firstname: Eleanor
 surname: Parmenter
 institution: Cambridge University Library
 layout: profile
-picture: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/team/EP_profile.JPG
+image: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/team/EP_profile.JPG
 ---
 Eleanor Parmenter has a Master's degree in Art Gallery and Museum Studies from the University of Leeds, which developed her research interests into community engagement and curatorial strategies in cultural institutions. 
 
