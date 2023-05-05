@@ -9,7 +9,7 @@ author: Tom Crowley
 audio: Walk-D-Democratising.mp3
 tags: [Constable,Walking,Landscape,Sound]
 ---
-In this third audio post drawing on [Walk D's]({{site.url}}/walks/Walk-D/) conversations, I join Simon Peachy, National Trust Site Manager at [Flatford] (https://www.nationaltrust.org.uk/visit/suffolk/flatford), a property which was owned by Constable’s family, and which featured in many of his paintings. Simon has known Constable Country his whole life, so his connection with the site runs deep. 
+In this third audio post drawing on [Walk D's]({{site.url}}/walks/Walk-D/) conversations, I join Simon Peachy, National Trust Site Manager at [Flatford](https://www.nationaltrust.org.uk/visit/suffolk/flatford), a property which was owned by Constable’s family, and which featured in many of his paintings. Simon has known Constable Country his whole life, so his connection with the site runs deep. 
 
 Flatford has been a tourist destination for nearly a century, and today its popularity is such that on a busy day the number of visitors can be an issue. Simon expanded on the challenges which his job entails but also explained how the National Trust is trying to ensure that visitors have an enriching experience. 
 
