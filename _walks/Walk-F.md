@@ -30,7 +30,7 @@ Constable would have been familiar with this route since childhood, as he walked
 
  After exploring "River Stour" scene at Flatford, we will make our way past the iconic Willy Lott’s House and up to the site of a windmill that once stood on on East Bergholt Common. In his youth, John worked in this mill, watching the sky and learning to understand cloud patterns.
 
-<iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestOne }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="100%" height="600" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestTwo }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="100%" height="600" allowfullscreen frameborder="0"></iframe>
 
 In addition to looking at the "Spring" view, we’ll read and discuss Constable’s text on this location written around 1833-35 for a later edition of ‘English Landscape’ before we head into East Bergholt for a lunch break.
 
