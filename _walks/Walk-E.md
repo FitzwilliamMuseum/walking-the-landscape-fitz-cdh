@@ -10,9 +10,9 @@ pref: 833
 walkDate: 2023-05-22
 geojson: Walk-E-22-MAY.JSON
 centroid: "51.963850, 1.007635"
-manifestOne: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00001-D
+manifestOne: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00002-B
 manifestTwo: https://cudl.lib.cam.ac.uk//iiif/PH-GEOGRAPHY-ANK-00035
-manifestThree: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00001-B
+manifestThree: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00001-D
 sceneset: "Local school children will be recreating Constable's walk to school and contemplating the Summer Evening view"
 ---
 Constable would have been familiar with this route since childhood, as he walked the 2 miles to school in Dedham every day!
