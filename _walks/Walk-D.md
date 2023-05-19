@@ -10,8 +10,8 @@ pref: 833
 walkDate: 2022-11-22
 geojson: Walk-D-22-NOV.JSON
 centroid: "51.963850, 1.007635"
-manifestOne: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00001-D
-manifestTwo: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00001-B
+manifestOne: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-01360-R
+manifestTwo: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00001-D
 manifestThree: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00001-C
 quote: "Nature! enchanting Nature! in whose form  
 And lineaments divine I trace a hand  
@@ -28,11 +28,9 @@ Constable would have been familiar with this route since childhood, as he walked
 
 <iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestOne }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="100%" height="600" allowfullscreen frameborder="0"></iframe>
 
- After exploring "River Stour" scene at Flatford, we will make our way past the iconic Willy Lott’s House and up to the site of a windmill that once stood on on East Bergholt Common. In his youth, John worked in this mill, watching the sky and learning to understand cloud patterns.
+After exploring "River Stour" scene at Flatford, we will make our way up to East Bergholt and explore the church there.
 
-<iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestOne }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="100%" height="600" allowfullscreen frameborder="0"></iframe>
-
-In addition to looking at the "Spring" view, we’ll read and discuss Constable’s text on this location written around 1833-35 for a later edition of ‘English Landscape’ before we head into East Bergholt for a lunch break.
+<iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestTwo }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="100%" height="600" allowfullscreen frameborder="0"></iframe>
 
 On the west side of East Bergholt, we will view the site of ‘Autumnal Sunset’ which looks towards Stratford St Mary, showing the path used by farm workers. East Bergholt’s Vale Farm appears in the dip at the right.
 
