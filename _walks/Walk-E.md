@@ -5,14 +5,14 @@ layout: walk
 excerpt: "We'll be taking some local school children to contemplate the Summer Evening view"
 preview: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/posts/Wall-Writing_preview.jpg
 image: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/posts/Wall-Writing.jpg
-alt: 'Graffiti on the wall of Sherman's Hall in Dedham'
+alt: "Graffiti on the wall of Sherman's Hall in Dedham"
 pref: 833
 walkDate: 2023-05-22
 geojson: Walk-E-22-MAY.JSON
 centroid: "51.963850, 1.007635"
 manifestOne: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00002-B
 quote: "This spot saw the day spring of my Life, Hours of Joy, and years of Happiness, This place first tinged my boyish fancy with a love of the art, This place was the origin of my fame."
-byline: 'Frontispiece, the English Landscape, John Constable, 1831'
+byline: "Frontispiece, the English Landscape, John Constable, 1831"
 sceneset: "Local school children will be recreating Constable's walk to school and contemplating the Summer Evening view"
 ---
 Constable would have been familiar with this route since childhood as, from the age of 11, he walked the 1.5 miles to school in Dedham every day! 
