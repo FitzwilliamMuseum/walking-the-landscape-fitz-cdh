@@ -30,9 +30,7 @@ Constable would have been familiar with this route since childhood, as he walked
 
 <iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestTwo }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="100%" height="600" allowfullscreen frameborder="0"></iframe>
 
-After exploring the 'River Stour' scene at Flatford, we will make our way up to the west side of East Bergholt, passing the Summer Evening scene.
-
-where the Constable family home was situated. The house 
+After exploring the 'River Stour' scene at Flatford, we will make our way up to the west side of East Bergholt, passing the 'Summer Evening' scene, which looks back up the valley to Dedham.
 
 <iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestThree }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="100%" height="600" allowfullscreen frameborder="0"></iframe>
 
