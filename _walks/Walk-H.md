@@ -8,7 +8,7 @@ image: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/walks/P_1471_R_
 alt: 'Summer Morning: P.1471-R'
 pref: 833
 walkDate: 2023-06-10
-geojson: Walk-H.JSON
+geojson: Walk-H-10-JUN.JSON
 centroid: "51.963850, 1.007635"
 manifestOne: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00005-C
 manifestTwo: https://cudl.lib.cam.ac.uk//iiif/PH-GEOGRAPHY-RC8GY-00021
