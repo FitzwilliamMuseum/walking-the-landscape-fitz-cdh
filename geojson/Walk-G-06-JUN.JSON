@@ -1,0 +1,723 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.0116688257594433,
+            51.97188152688267
+          ],
+          [
+            1.0123358232122612,
+            51.97245776700316
+          ],
+          [
+            1.0139444516531562,
+            51.974122414901686
+          ],
+          [
+            1.0152356550366477,
+            51.97534905355501
+          ],
+          [
+            1.0156581957883475,
+            51.97514540115477
+          ],
+          [
+            1.0161818498706339,
+            51.97493126704096
+          ],
+          [
+            1.016744446607504,
+            51.97549053843093
+          ],
+          [
+            1.017670866221323,
+            51.97582660021766
+          ],
+          [
+            1.0185687919131965,
+            51.976025450210116
+          ],
+          [
+            1.019625659791103,
+            51.97623240619478
+          ],
+          [
+            1.020284447072072,
+            51.97630849461683
+          ],
+          [
+            1.0210255827624053,
+            51.97620070264739
+          ],
+          [
+            1.0219417088250964,
+            51.97597243644475
+          ],
+          [
+            1.0226931380665576,
+            51.975617353373366
+          ],
+          [
+            1.023691612538613,
+            51.97506570087651
+          ],
+          [
+            1.0239386577691505,
+            51.97503399650353
+          ],
+          [
+            1.0260488399941892,
+            51.97346142694596
+          ],
+          [
+            1.0258429689683624,
+            51.9725800054639
+          ],
+          [
+            1.0271468584340653,
+            51.971340286425885
+          ],
+          [
+            1.029586430083242,
+            51.971936374018924
+          ],
+          [
+            1.0310333576381936,
+            51.97203149364583
+          ],
+          [
+            1.031051596160978,
+            51.97253302806479
+          ],
+          [
+            1.0310464291868868,
+            51.972879230818734
+          ],
+          [
+            1.0310789416352009,
+            51.97254266988955
+          ],
+          [
+            1.0310649388136994,
+            51.97203267902134
+          ],
+          [
+            1.0335639318560936,
+            51.972274804940525
+          ],
+          [
+            1.0325286667870444,
+            51.967831538350936
+          ],
+          [
+            1.0326861797993843,
+            51.96748879486282
+          ],
+          [
+            1.0333346735291684,
+            51.9672224323985
+          ],
+          [
+            1.0344772577188053,
+            51.96691801621543
+          ],
+          [
+            1.0348787062181373,
+            51.966822885734246
+          ],
+          [
+            1.0351051643462483,
+            51.96668970272131
+          ],
+          [
+            1.0341581576300598,
+            51.966156966711395
+          ],
+          [
+            1.0321920893395884,
+            51.965954017994335
+          ],
+          [
+            1.029890977895377,
+            51.96542878237645
+          ],
+          [
+            1.0286660452951253,
+            51.965435124612014
+          ],
+          [
+            1.0282851838982765,
+            51.965371702215435
+          ],
+          [
+            1.027719038579022,
+            51.9653526754787
+          ],
+          [
+            1.0271300075038994,
+            51.96548551193277
+          ],
+          [
+            1.0264403395694046,
+            51.96566309396664
+          ],
+          [
+            1.025526369616216,
+            51.96572287277081
+          ],
+          [
+            1.0243992473069738,
+            51.96585079888044
+          ],
+          [
+            1.024213865348031,
+            51.9658051110259
+          ],
+          [
+            1.0235687361309829,
+            51.9659147617983
+          ],
+          [
+            1.023227633327167,
+            51.9659421744492
+          ],
+          [
+            1.022968098584471,
+            51.965978724624904
+          ],
+          [
+            1.0225973346675232,
+            51.96614320004582
+          ],
+          [
+            1.0222636471411022,
+            51.966257418732425
+          ],
+          [
+            1.0219987013352068,
+            51.9662831629916
+          ],
+          [
+            1.021412894345275,
+            51.96598162520081
+          ],
+          [
+            1.01998174562371,
+            51.965794305248636
+          ],
+          [
+            1.0198363342859125,
+            51.965835429129925
+          ],
+          [
+            1.0196657828835782,
+            51.96585370426527
+          ],
+          [
+            1.017930607749605,
+            51.965707502976414
+          ],
+          [
+            1.01732997020315,
+            51.96560698931427
+          ],
+          [
+            1.017165947458409,
+            51.96550548729968
+          ],
+          [
+            1.016046240427471,
+            51.96523135736297
+          ],
+          [
+            1.0148780562167872,
+            51.96479278277317
+          ],
+          [
+            1.0147491099860986,
+            51.965422448027226
+          ],
+          [
+            1.014727634816495,
+            51.965440641535224
+          ],
+          [
+            1.014209545416037,
+            51.96574992998299
+          ],
+          [
+            1.0140619036239116,
+            51.965873975576756
+          ],
+          [
+            1.0131903136139897,
+            51.967605142363055
+          ],
+          [
+            1.0130748845775486,
+            51.96763821985243
+          ],
+          [
+            1.0130054284759638,
+            51.967720851480266
+          ],
+          [
+            1.0125463967226551,
+            51.96802516267536
+          ],
+          [
+            1.0122984620941224,
+            51.96820160916889
+          ],
+          [
+            1.012013916094844,
+            51.9685108786247
+          ],
+          [
+            1.0119172778305199,
+            51.968762261850316
+          ],
+          [
+            1.0118904338685866,
+            51.96892268330359
+          ],
+          [
+            1.0119276945821127,
+            51.96925199183502
+          ],
+          [
+            1.0120431870029165,
+            51.969476309523515
+          ],
+          [
+            1.0123116266250065,
+            51.96968303479963
+          ],
+          [
+            1.0124806916855675,
+            51.96977717610875
+          ],
+          [
+            1.0125728051631313,
+            51.96985889459347
+          ],
+          [
+            1.0129928426174217,
+            51.96992245331205
+          ],
+          [
+            1.0132507603529746,
+            51.96994288288087
+          ],
+          [
+            1.013243391274898,
+            51.969976932142
+          ],
+          [
+            1.0130223189297567,
+            51.970092699435696
+          ],
+          [
+            1.0128344074368556,
+            51.97015171794092
+          ],
+          [
+            1.012672287718118,
+            51.97018803698211
+          ],
+          [
+            1.0122080357944299,
+            51.97017895722456
+          ],
+          [
+            1.0121527677088125,
+            51.97021073636839
+          ],
+          [
+            1.0120569696928499,
+            51.97018803698211
+          ],
+          [
+            1.0118174746524744,
+            51.97060116400732
+          ],
+          [
+            1.0113251810926158,
+            51.97128151517367
+          ],
+          [
+            1.0104927127557346,
+            51.971405851593005
+          ],
+          [
+            1.0100505680663048,
+            51.97143535999086
+          ],
+          [
+            1.0089709981174053,
+            51.97141266122489
+          ],
+          [
+            1.008114613914131,
+            51.971463939353214
+          ],
+          [
+            1.007016499629799,
+            51.971596705659266
+          ],
+          [
+            1.0070591410721477,
+            51.97161969133259
+          ],
+          [
+            1.0081091866024394,
+            51.97148834446804
+          ],
+          [
+            1.0089673456392063,
+            51.97143252193416
+          ],
+          [
+            1.0096442785430497,
+            51.97145222401275
+          ],
+          [
+            1.0100983621067314,
+            51.97145507783196
+          ],
+          [
+            1.0105141161742495,
+            51.971432092074224
+          ],
+          [
+            1.0113296337673603,
+            51.971304028349834
+          ],
+          [
+            1.0113189734067305,
+            51.97146492886739
+          ],
+          [
+            1.0114309071943524,
+            51.97163896347095
+          ],
+          [
+            1.0116688257594433,
+            51.97188152688267
+          ]
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Start & Finish"
+      },
+      "geometry": {
+        "coordinates": [
+          1.0116688257594433,
+            51.97188152688267
+        ],
+        "type": "Point"
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fff9eb",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Spring",
+        "link": "https://cudl.lib.cam.ac.uk/view/PR-FITZWILLIAM-P-00232-01954-00001-B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0310778547649022,
+          51.972601168158974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fff9eb",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Autumnal sunset (P.232-1954 (1)c)",
+        "link": "https://cudl.lib.cam.ac.uk/view/PR-FITZWILLIAM-P-00232-01954-00001-C"
+      },
+      "geometry": {
+        "coordinates": [
+          1.0082520708399443,
+          51.97146231898458
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fff9eb",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Summer Evening (P.232-1954 (2)b)",
+        "link": "https://cudl.lib.cam.ac.uk/view/PR-FITZWILLIAM-P-00232-01954-00002-B"
+      },
+      "geometry": {
+        "coordinates": [
+          1.0119088266107497,
+          51.968888669879675
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fff9eb",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Frontispiece. East Bergholt, Suffolk (P.232-1954 (1)a)",
+        "link": "https://cudl.lib.cam.ac.uk/view/PR-FITZWILLIAM-P-00232-01954-00001-A"
+      },
+      "geometry": {
+        "coordinates": [
+          1.0114315152168274,
+          51.97112604049737
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Flatford Mill Field Centre (ANK35)",
+        "link": "https://cudl.lib.cam.ac.uk/view/PH-GEOGRAPHY-ANK-00035"
+      },
+      "geometry": {
+        "coordinates": [
+          1.02151,
+          51.958477
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Stour Estuary, near Dedham, looking E from (AXL95)",
+        "link": "https://cudl.lib.cam.ac.uk/view/PH-GEOGRAPHY-AXL-00095"
+      },
+      "geometry": {
+        "coordinates": [
+          1.022721,
+          51.954845
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Near Vale farm, East Bergholt  (FW21)",
+        "link": "https://cudl.lib.cam.ac.uk/view/PH-GEOGRAPHY-FW-00021"
+      },
+      "geometry": {
+        "coordinates": [
+          1.002064,
+          51.972466
+        ],
+        "type": "Point"
+    }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Farm Surveys, Denham and Stratford St Mary (RC8GY020)",
+        "link": "https://cudl.lib.cam.ac.uk/view/PH-GEOGRAPHY-RC8GY-00020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.994977,
+          51.973831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Farm Surveys, Denham and Stratford St Mary (RC8GY021)",
+        "link": "https://cudl.lib.cam.ac.uk/view/PH-GEOGRAPHY-RC8GY-00021/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.989468,
+          51.974205
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cropmarks, Stratford St Mary (CRF94)",
+        "link": "https://cudl.lib.cam.ac.uk/view/PH-GEOGRAPHY-CRF-00094"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.988981,
+          51.972797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cropmarks, 1.5 miles NE of East Bergholt  (CRF96)",
+        "link": "https://cudl.lib.cam.ac.uk/view/PH-GEOGRAPHY-CRF-00096"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.048948,
+          51.976654
+        ]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cropmarks, 1.5 miles E of East Bergholt (CCR78)",
+        "link": "https://cudl.lib.cam.ac.uk/view/PH-GEOGRAPHY-CCR-00078"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.048582,
+          51.971268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Crop Patterns, E of Bergholt  (CQL71)",
+        "link": "https://cudl.lib.cam.ac.uk/view/PH-GEOGRAPHY-CQL-00071"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.031017,
+          51.969921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cropmarks, 0.75 mile NE of Bergholt (CQL72)",
+        "link": "https://cudl.lib.cam.ac.uk/view/PH-GEOGRAPHY-CQL-00072"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.037378,
+          51.977852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cropmarks, 1 mile ENE of Stratford St. Mary (ADR92)",
+        "link": "https://cudl.lib.cam.ac.uk/view/PH-GEOGRAPHY-ADR-00092"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.997703,
+          51.972576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cropmarks, W of East Bergholt  (ZL8)",
+        "link": "https://cudl.lib.cam.ac.uk/view/PH-GEOGRAPHY-ZL-00008"
+      },
+      "geometry": {
+        "coordinates": [
+          1.005032,
+          51.973289
+        ],
+        "type": "Point"
+      }
+     },
+      {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cropmarks, 1.25 miles ENE of Stratford St.Mary (ZL9)",
+        "link": "https://cudl.lib.cam.ac.uk/view/PH-GEOGRAPHY-ZL-00009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.000611,
+          51.9725
+        ]
+      }
+    }
+  ]
+}
