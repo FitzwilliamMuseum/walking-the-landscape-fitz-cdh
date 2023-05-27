@@ -8,12 +8,12 @@ image: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/walks//PR-FITZW
 alt: 'Frontispiece. East Bergholt, Suffolk (P.232-1954 (1)a)'
 pref: 833
 walkDate: 2023-06-06
-geojson: Walk-G.JSON
+geojson: Walk-G-06-JUN.JSON
 centroid: "51.963850, 1.007635"
 manifestOne: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00001-B
 manifestTwo: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00002-B
 manifestThree: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00001-C
-quote: "“This spot saw the day spring of my Life, Hours of Joy, and years of Happiness, This place first tinged my boyish fancy with a love of the art, This place was the origin of my fame."
+quote: "This spot saw the day spring of my Life, Hours of Joy, and years of Happiness, This place first tinged my boyish fancy with a love of the art, This place was the origin of my fame."
 byline: "Frontispiece, the English Landscape, John Constable, 1831 "
 sceneset: "A circular route exploring the village that Constable viewed as the origin of his fame."
 ---
