@@ -7,7 +7,7 @@ preview: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/walks/PR-FITZ
 image: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/walks//PR-FITZWILLIAM-P-00232-01954-00001-A-000-00001_crop.jpg
 alt: 'Frontispiece. East Bergholt, Suffolk (P.232-1954 (1)a)'
 pref: 833
-walkDate: 2022-06-06
+walkDate: 2023-06-06
 geojson: Walk-G.JSON
 centroid: "51.963850, 1.007635"
 manifestOne: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00001-B
