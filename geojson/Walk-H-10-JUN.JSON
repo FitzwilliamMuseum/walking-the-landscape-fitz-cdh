@@ -348,8 +348,8 @@
       },
       "geometry": {
         "coordinates": [
-          1.0310331,
-              51.9729059
+            1.0199786561496467,
+            51.961218889499776
         ],
         "type": "Point"
       }
@@ -364,27 +364,10 @@
       },
       "geometry": {
         "coordinates": [
-             1.0196276,
-              51.959573
+             1.0200851304773266,
+            51.96137063310792
         ],
         "type": "Point"
-      }
-    },
-     {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#fff9eb",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "label": "Spring",
-        "link": "https://cudl.lib.cam.ac.uk/view/PR-FITZWILLIAM-P-00232-01954-00001-B"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.0310778547649022,
-          51.972601168158974
-        ]
       }
     },
      {
@@ -401,74 +384,6 @@
         "coordinates": [
           1.0203377902507782,
           51.95957842405398
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#400318",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Crop Patterns, E of Bergholt  (CQL71)",
-        "link": "https://cudl.lib.cam.ac.uk/view/PH-GEOGRAPHY-CQL-00071"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.031017,
-          51.969921
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#400318",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Cropmarks, 0.75 mile NE of Bergholt (CQL72)",
-        "link": "https://cudl.lib.cam.ac.uk/view/PH-GEOGRAPHY-CQL-00072"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.037378,
-          51.977852
-        ]
-      }
-    },
-        {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#400318",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Cropmarks, 1.5 miles NE of East Bergholt  (CRF96)",
-        "link": "https://cudl.lib.cam.ac.uk/view/PH-GEOGRAPHY-CRF-00096"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.048948,
-          51.976654
-        ]
-      }
-    },
-        {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#400318",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Cropmarks, 1.5 miles E of East Bergholt (CCR78)",
-        "link": "https://cudl.lib.cam.ac.uk/view/PH-GEOGRAPHY-CCR-00078"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.048582,
-          51.971268
         ]
       }
     },
