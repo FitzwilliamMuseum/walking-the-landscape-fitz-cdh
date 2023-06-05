@@ -2,7 +2,7 @@
 title: "Walk H: Flatford Focus"
 walk_byline: "A focus on Flatford"
 layout: walk
-excerpt: ""
+excerpt: "Flatford is one of the key locations we've been walking through. On this shorter walk, we take a closer look around Flatford"
 preview: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/walks/FlatfordInFocus-crop_preview.jpg
 image: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/walks/FlatfordInFocus-crop.jpg
 alt: 'Flatford bridge'
@@ -10,22 +10,23 @@ pref: 833
 walkDate: 2023-06-10
 geojson: Walk-H-10-JUN.JSON
 centroid: "51.963850, 1.007635"
-manifestOne: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00001-D
+manifestOne: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00001-D 
 manifestTwo: https://api.fitz.ms/data-distributor/iiif/object-163171/manifest 
+manifestThree: https://cudl.lib.cam.ac.uk//iiif/PH-GEOGRAPHY-AXL-00095
 quote: "“How Nature paints her colours: how the bee sits on the bloom extracting liquid sweets."
 byline: "Paradise Lost (Book V), John Milton, 1667"
-sceneset: "We take a closer look around Flatford"
+sceneset: "Flatford is one of the key locations we've been walking through. On this shorter walk, we take a closer look around Flatford"
 ---
-The starting point for this walk lies south-west of East Bergholt at the peaceful site of St Mary's Church, Langham. On the south side of Dedham Vale, we will try to find the spot near Church (Glebe Farm), and the viewpoint over the hill for St Mary’s Church, which Constable combined in his composition ‘The Glebe Farm’.
+Flatford is one of the key locations we've been walking through. On this shorter walk, we be take a different approach and explore the site in more detail.  
 
 <iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestOne }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="100%" height="600" allowfullscreen frameborder="0"></iframe>
 
-Constable knew the cottage well: it had been the parish lodgings of his mentor and early patron, John Fisher (1748-1825), Rector of Langham, who later became Bishop of Salisbury. They met in 1798, and Constable became a regular visitor, painting many of his early views of Dedham from this location. In 1818 Fisher presided over Constable’s marriage to Maria Bicknell. Constable painted multiple versions of this view, adding the church behind the house to make it a memorial to his great friend and supporter. 
-
-As we head north-east towards Stratford St. Mary, we'll see if we can find the 'Summer Morning' view that we've not yet explored. As we leave the village we'll explore Church of Stratford Saint Mary before making our way through the fields like many farm workers before us, and think about what might be hiding beneath our feet. 
+Starting with viewing 'River Stour', a viewpoint we have passed by on several of our walks, we'll take a short stroll along the lane to the Flatford Mill itself, and the infamous Willy Lott's cottage. Undoubtedly Constable's most famous painting, 'The Hay Wain' takes in this scene, but the 'Mill Stream' print is based on an earlier painting, ['The Mill Stream'](https://cim-web.adlibhosting.com/ais6/Details/collect/66648), which is now in the collections at Christchurch Mansion. This walk provides us with an opportunity to inspect this print. 
 
 <iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestTwo }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="100%" height="600" allowfullscreen frameborder="0"></iframe>
 
-Now on our home-straight, we pass Vale Farm on our way up towards East Bergholt, where we'll turn and look back at the ‘Autumnal Sunset’ view, which looks back towards Vale Farm and on to Stratford St Mary and the sunset.
+We'll also wander around to the other side of the river to explore the area around the lock, which leads down river and out to sea. Looking back towards the Flatford Bridge, we'll inspect another print we've not yet had a chance to view, 'A Lock on the Stour'.
 
-Once in East Bergholt, we walk past Constable's studio and can try and find his childhood home.
+<iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestThree }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="100%" height="600" allowfullscreen frameborder="0"></iframe>
+
+In addition to viewing some of the prints we've not yet used, we'll make the most of the opportunity to dwell in the natural environment of Flatford, by ambling a short distance upstream, and also experiencing the sunken lane which heads back up the valley edge to East Bergholt.
