@@ -1,0 +1,514 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+              1.0310331,
+              51.9729059
+            ],
+            [
+              1.0310697,
+              51.9725599
+            ],
+            [
+              1.0310571,
+              51.9721356
+            ],
+            [
+              1.0310565,
+              51.9720127
+            ],
+            [
+              1.0325283,
+              51.9721609
+            ],
+            [
+              1.0335956,
+              51.972271
+            ],
+            [
+              1.0332978,
+              51.9710228
+            ],
+            [
+              1.0327779,
+              51.9688413
+            ],
+            [
+              1.0325961,
+              51.9679837
+            ],
+            [
+              1.0325627,
+              51.9678146
+            ],
+            [
+              1.0326314,
+              51.9675722
+            ],
+            [
+              1.0327977,
+              51.9674688
+            ],
+            [
+              1.0331044,
+              51.9673345
+            ],
+            [
+              1.0336048,
+              51.9671646
+            ],
+            [
+              1.034023,
+              51.9670487
+            ],
+            [
+              1.0345107,
+              51.9669369
+            ],
+            [
+              1.0347946,
+              51.9668521
+            ],
+            [
+              1.0351028,
+              51.9667155
+            ],
+            [
+              1.035756250004952,
+              51.96641996070264
+            ],
+           [
+              1.0357563,
+              51.9664207
+            ],
+            [
+              1.0361183,
+              51.9659241
+            ],
+            [
+              1.0373661,
+              51.9637108
+            ],
+            [
+              1.0383531,
+              51.9632348
+            ],
+            [
+              1.0385007,
+              51.9631307
+            ],
+            [
+              1.0385666,
+              51.9629023
+            ],
+            [
+              1.0386444,
+              51.96261469999999
+            ],
+            [
+              1.0386578,
+              51.9621222
+            ],
+            [
+              1.0386175,
+              51.961757
+            ],
+            [
+              1.0385248,
+              51.9609342
+            ],
+            [
+              1.0385344,
+              51.9605769
+            ],
+            [
+              1.0388863,
+              51.9591777
+            ],
+            [
+              1.0386166,
+              51.9590783
+            ],
+            [
+              1.0383383,
+              51.9590909
+            ],
+            [
+              1.0376197,
+              51.9590707
+            ],
+            [
+              1.0370676,
+              51.958976499999984
+            ],
+            [
+              1.0365832,
+              51.9589226
+            ],
+            [
+              1.036332,
+              51.9589373
+            ],
+            [
+              1.0359998,
+              51.9590542
+            ],
+            [
+              1.0353369,
+              51.959132
+            ],
+            [
+              1.034201,
+              51.9591023
+            ],
+            [
+              1.0341473,
+              51.9591009
+            ],
+            [
+              1.0340936,
+              51.9590995
+            ],
+            [
+              1.0324495,
+              51.9592626
+            ],
+            [
+              1.0323716,
+              51.95926020000001
+            ],
+            [
+              1.0320578,
+              51.9592505
+            ],
+            [
+              1.031437,
+              51.9590578
+            ],
+            [
+              1.0308485,
+              51.9588032
+            ],
+            [
+              1.0308025,
+              51.9588579
+            ],
+            [
+              1.0305606,
+              51.9593869
+            ],
+            [
+              1.0302271,
+              51.96011639999998
+            ],
+            [
+              1.0301802,
+              51.960101499999986
+            ],
+            [
+              1.0299709,
+              51.9600453
+            ],
+            [
+              1.0273638,
+              51.9594933
+            ],
+            [
+              1.0256149,
+              51.95974469999999
+            ],
+            [
+              1.0253468,
+              51.9596892
+            ],
+            [
+              1.0250451,
+              51.9596627
+            ],
+            [
+              1.0247539,
+              51.9595976
+            ],
+            [
+              1.024574,
+              51.9595376
+            ],
+            [
+              1.0245442,
+              51.9595276
+            ],
+            [
+              1.0232226,
+              51.95878
+            ],
+            [
+              1.0225203,
+              51.9584438
+            ],
+            [
+              1.0223996,
+              51.9583924
+            ],
+            [
+              1.0223314,
+              51.95838470000001
+            ],
+            [
+              1.0222637,
+              51.9583924
+            ],
+            [
+              1.0221321,
+              51.958477
+            ],
+            [
+              1.0219014,
+              51.9586937
+            ],
+            [
+              1.021865,
+              51.9587296
+            ],
+            [
+              1.0218074,
+              51.9588275
+            ],
+            [
+              1.0217862,
+              51.9588634
+            ],
+            [
+              1.0217596,
+              51.958933499999986
+            ],
+            [
+              1.0216219,
+              51.9591454
+            ],
+            [
+              1.0214467,
+              51.959348
+            ],
+            [
+              1.0213525,
+              51.95944079999999
+            ],
+            [
+              1.0212665,
+              51.9594986
+            ],
+            [
+              1.0212014,
+              51.9595434
+            ],
+            [
+              1.0210105,
+              51.9596605
+            ],
+            [
+              1.0208215,
+              51.9597243
+            ],
+            [
+              1.0204684,
+              51.9598036
+            ],
+            [
+              1.0201728,
+              51.9598557
+            ],
+            [
+              1.0198847,
+              51.959914
+            ],
+            [
+              1.0197536,
+              51.9597345
+            ],
+            [
+              1.0196851,
+              51.9596492
+            ],
+            [
+              1.0196276,
+              51.959573
+            ]
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Start"
+      },
+      "geometry": {
+        "coordinates": [
+          1.0310331,
+              51.9729059
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Finish"
+      },
+      "geometry": {
+        "coordinates": [
+             1.0196276,
+              51.959573
+        ],
+        "type": "Point"
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fff9eb",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Spring",
+        "link": "https://cudl.lib.cam.ac.uk/view/PR-FITZWILLIAM-P-00232-01954-00001-B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0310778547649022,
+          51.972601168158974
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fff9eb",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "River Stour",
+        "link": "https://cudl.lib.cam.ac.uk/view/PR-FITZWILLIAM-P-00232-01954-00001-D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0203377902507782,
+          51.95957842405398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Crop Patterns, E of Bergholt  (CQL71)",
+        "link": "https://cudl.lib.cam.ac.uk/view/PH-GEOGRAPHY-CQL-00071"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.031017,
+          51.969921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cropmarks, 0.75 mile NE of Bergholt (CQL72)",
+        "link": "https://cudl.lib.cam.ac.uk/view/PH-GEOGRAPHY-CQL-00072"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.037378,
+          51.977852
+        ]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cropmarks, 1.5 miles NE of East Bergholt  (CRF96)",
+        "link": "https://cudl.lib.cam.ac.uk/view/PH-GEOGRAPHY-CRF-00096"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.048948,
+          51.976654
+        ]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cropmarks, 1.5 miles E of East Bergholt (CCR78)",
+        "link": "https://cudl.lib.cam.ac.uk/view/PH-GEOGRAPHY-CCR-00078"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.048582,
+          51.971268
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Flatford Mill Field Centre (ANK35)",
+        "link": "https://cudl.lib.cam.ac.uk/view/PH-GEOGRAPHY-ANK-00035"
+      },
+      "geometry": {
+        "coordinates": [
+          1.02151,
+          51.958477
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Stour Estuary, near Dedham, looking E from (AXL95)",
+        "link": "https://cudl.lib.cam.ac.uk/view/PH-GEOGRAPHY-AXL-00095"
+      },
+      "geometry": {
+        "coordinates": [
+          1.022721,
+          51.954845
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
