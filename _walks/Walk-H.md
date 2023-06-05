@@ -11,8 +11,7 @@ walkDate: 2023-06-10
 geojson: Walk-H-10-JUN.JSON
 centroid: "51.963850, 1.007635"
 manifestOne: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00005-C
-manifestTwo: https://cudl.lib.cam.ac.uk//iiif/PH-GEOGRAPHY-RC8GY-00021
-manifestThree: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00001-C
+manifestTwo: https://api.fitz.ms/data-distributor/iiif/object-163171/manifest 
 quote: "“How Nature paints her colours: how the bee sits on the bloom extracting liquid sweets."
 byline: "Paradise Lost (Book V), John Milton, 1667"
 sceneset: "A quintessential cottage, a hunt for a 'Summer Morning' and on to home."
@@ -28,7 +27,5 @@ As we head north-east towards Stratford St. Mary, we'll see if we can find the '
 <iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestTwo }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="100%" height="600" allowfullscreen frameborder="0"></iframe>
 
 Now on our home-straight, we pass Vale Farm on our way up towards East Bergholt, where we'll turn and look back at the ‘Autumnal Sunset’ view, which looks back towards Vale Farm and on to Stratford St Mary and the sunset.
-
-<iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestThree }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="100%" height="600" allowfullscreen frameborder="0"></iframe>
 
 Once in East Bergholt, we walk past Constable's studio and can try and find his childhood home.
