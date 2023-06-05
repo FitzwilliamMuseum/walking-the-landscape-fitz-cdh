@@ -1,20 +1,20 @@
 ---
-title: "Walk H: Langham to East Bergholt"
-walk_byline: "Langham to East Bergholt via Stratford St. Mary"
+title: "Walk H: Flatford Focus"
+walk_byline: "A focus on Flatford"
 layout: walk
-excerpt: "After a visit to a friend, we hunt out 'Summer Morning' on our way home to East Bergholt."
-preview: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/walks/P_1471_R_CE_crop_preview.jpg
-image: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/walks/P_1471_R_CE_crop.jpg
-alt: 'Summer Morning: P.1471-R'
+excerpt: ""
+preview: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/walks/FlatfordInFocus-crop_preview.jpg
+image: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/walks/FlatfordInFocus-crop.jpg
+alt: 'Flatford bridge'
 pref: 833
 walkDate: 2023-06-10
 geojson: Walk-H-10-JUN.JSON
 centroid: "51.963850, 1.007635"
-manifestOne: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00005-C
+manifestOne: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-00232-01954-00001-D
 manifestTwo: https://api.fitz.ms/data-distributor/iiif/object-163171/manifest 
 quote: "“How Nature paints her colours: how the bee sits on the bloom extracting liquid sweets."
 byline: "Paradise Lost (Book V), John Milton, 1667"
-sceneset: "A quintessential cottage, a hunt for a 'Summer Morning' and on to home."
+sceneset: "We take a closer look around Flatford"
 ---
 The starting point for this walk lies south-west of East Bergholt at the peaceful site of St Mary's Church, Langham. On the south side of Dedham Vale, we will try to find the spot near Church (Glebe Farm), and the viewpoint over the hill for St Mary’s Church, which Constable combined in his composition ‘The Glebe Farm’.
 
