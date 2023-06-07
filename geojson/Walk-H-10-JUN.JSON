@@ -390,6 +390,40 @@
      {
       "type": "Feature",
       "properties": {
+        "marker-color": "#fff9eb",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Mill Stream",
+        "link": "https://data.fitzmuseum.cam.ac.uk/id/object/163171"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0219134232736735,
+          51.958629213996204
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fff9eb",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "A lock on the Stour",
+        "link": "https://data.fitzmuseum.cam.ac.uk/search/results?query=A+lock+on+the+Stour&operator=AND&sort=desc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.020506065902083,
+          51.959002945691026
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
         "marker-color": "#400318",
         "marker-size": "medium",
         "marker-symbol": "",
