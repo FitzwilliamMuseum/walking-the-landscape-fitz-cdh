@@ -421,6 +421,57 @@
         ]
       }
     },
+        {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Oliver Rackham on Willy Lott's Cottage",
+        "link": "https://cudl.lib.cam.ac.uk/view/MS-CCCC-00014-00006-00002-00001-00244/15"
+      },
+      "geometry": {
+        "coordinates": [
+          1.0221251242167,
+          51.958474736868254
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Oliver Rackham on Pollution and Elm Disease",
+        "link": "https://cudl.lib.cam.ac.uk/view/MS-CCCC-00014-00006-00002-00001-00244/30"
+      },
+      "geometry": {
+        "coordinates": [
+          1.0217571841735662,
+          51.95893804673602
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Oliver Rackham on Holloways at Flatford",
+        "link": "https://cudl.lib.cam.ac.uk/view/MS-CCCC-00014-00006-00002-00001-00244/19"
+      },
+      "geometry": {
+        "coordinates": [
+          1.0201849311684157,
+          51.961154852571724
+        ],
+        "type": "Point"
+      }
+    },
      {
       "type": "Feature",
       "properties": {
