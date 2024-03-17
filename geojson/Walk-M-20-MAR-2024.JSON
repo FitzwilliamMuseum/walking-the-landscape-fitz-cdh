@@ -7,6 +7,125 @@
         "marker-color": "#400318",
         "marker-size": "medium",
         "marker-symbol": "",
+        "name": "University Library",
+        "link": "https://cudl.lib.cam.ac.uk/view/PH-GEOGRAPHY-FW-00021"
+      },
+      "geometry": {
+        "coordinates": [
+          0.10889769157711271,
+          52.204872885709854
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Map of Cambridge, George Braun, 1575",
+        "link": "https://cudl.lib.cam.ac.uk/view/PR-ATLAS-00004-00057-00003"
+      },
+      "geometry": {
+        "coordinates": [
+          0.1116023045926463,
+          52.20504988623304
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Map of Cambridge, William Custance, 1798",
+        "link": "https://cudl.lib.cam.ac.uk/view/PR-MAPS-BB-00053-00079-00001"
+      },
+      "geometry": {
+        "coordinates": [
+          0.1149540478276615,
+          52.20440845170054
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Fitzwilliam?",
+        "link": "https://cudl.lib.cam.ac.uk/view/PR-FITZWILLIAM-P-00232-01954-00002-B"
+      },
+      "geometry": {
+        "coordinates": [
+          0.11791992754987268,
+          52.205640209360894
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "1800 - Castle, rear",
+        "link": "https://cudl.lib.cam.ac.uk/view/MS-VIEWS-RELHAN-00074"
+      },
+      "geometry": {
+        "coordinates": [
+          0.11303083945620074,
+          52.21227616258912
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Lock on the ...",
+        "link": "https://cudl.lib.cam.ac.uk/view/PR-FITZWILLIAM-P-00232-01954-00003-S-00020-IV"
+      },
+      "geometry": {
+        "coordinates": [
+          0.12169233156620862,
+          52.21286032054971
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "c.1825 - Castle",
+        "link": "https://cudl.lib.cam.ac.uk/view/MS-VIEWS-RELHAN-00077"
+      },
+      "geometry": {
+        "coordinates": [
+          0.11442405631729913,
+          52.21269339417904
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400318",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "label": "@Kings: Stoke-by-Neyland, Suffolk (P.158-1955)",
         "link": "https://cudl.lib.cam.ac.uk/view/PR-FITZWILLIAM-P-00158-01955"
       },
@@ -14,40 +133,6 @@
         "coordinates": [
           0.11205883463250643,
           52.20354900942647
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#400318",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "University Library",
-        "link": "https://cudl.lib.cam.ac.uk/view/PH-GEOGRAPHY-FW-00021"
-      },
-      "geometry": {
-        "coordinates": [
-          0.10859689943026751,
-          52.205085899856016
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#400318",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "empty",
-        "link": "https://cudl.lib.cam.ac.uk/view/PH-GEOGRAPHY-ZL-00009"
-      },
-      "geometry": {
-        "coordinates": [
-          0.10959689943026751,
-          52.205085899856016
         ],
         "type": "Point"
       }
@@ -84,7 +169,7 @@
         "type": "Point"
       }
     },
-     {
+    {
       "type": "Feature",
       "properties": {
         "marker-color": "#400318",
@@ -95,7 +180,7 @@
       },
       "geometry": {
         "coordinates": [
-	      0.11541997088306744,
+          0.11541997088306744,
           52.2018362105926
         ],
         "type": "Point"
@@ -118,7 +203,7 @@
         "type": "Point"
       }
     },
-     {
+    {
       "type": "Feature",
       "properties": {
         "marker-color": "#400318",
@@ -141,8 +226,8 @@
         "marker-color": "#400318",
         "marker-size": "medium",
         "marker-symbol": "",
-        "label": "Fitzwilliam?",
-        "link": "https://cudl.lib.cam.ac.uk/view/PR-FITZWILLIAM-P-00232-01954-00002-B"
+        "label": "1897 - Women?",
+        "link": "https://cudl.lib.cam.ac.uk/view/PH-UA-PHOT-00174-00004"
       },
       "geometry": {
         "coordinates": [
@@ -158,52 +243,18 @@
         "marker-color": "#400318",
         "marker-size": "medium",
         "marker-symbol": "",
-        "label": "Castle",
-        "link": "https://cudl.lib.cam.ac.uk/view/MS-VIEWS-RELHAN-00074"
-      },
-      "geometry": {
-        "coordinates": [
-          0.11320750710035554,
-          52.21237479111784
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#400318",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "label": "Lock",
-        "link": "https://cudl.lib.cam.ac.uk/view/PR-FITZWILLIAM-P-00232-01954-00003-S-00020-IV"
-      },
-      "geometry": {
-        "coordinates": [
-          0.12134105873033718,
-          52.21277141891673
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#400318",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "label": "Book move",
         "link": "https://cudl.lib.cam.ac.uk/view/PH-CAM-B-00934-00011/27"
       },
       "geometry": {
         "coordinates": [
-         0.11626644878631964,
+          0.11626644878631964,
           52.20562170087152
         ],
         "type": "Point"
       }
     },
-     {
+    {
       "type": "Feature",
       "properties": {
         "marker-color": "#400318",
