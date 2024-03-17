@@ -59,12 +59,12 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Fitzwilliam?",
-        "link": "https://cudl.lib.cam.ac.uk/view/PR-FITZWILLIAM-P-00232-01954-00002-B"
+        "link": ""
       },
       "geometry": {
         "coordinates": [
-          0.11791992754987268,
-          52.205640209360894
+          0.11807726857585976,
+          52.20588898526546
         ],
         "type": "Point"
       }
@@ -231,8 +231,8 @@
       },
       "geometry": {
         "coordinates": [
-          0.11807726857585976,
-          52.20588898526546
+          0.11791992754987268,
+          52.205640209360894
         ],
         "type": "Point"
       }
