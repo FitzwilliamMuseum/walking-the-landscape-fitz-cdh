@@ -80,8 +80,8 @@
       },
       "geometry": {
         "coordinates": [
-          0.11303083945620074,
-          52.21227616258912
+          0.11442405631729913,
+          52.21269339417904
         ],
         "type": "Point"
       }
@@ -114,8 +114,8 @@
       },
       "geometry": {
         "coordinates": [
-          0.11442405631729913,
-          52.21269339417904
+          0.11303083945620074,
+          52.21227616258912
         ],
         "type": "Point"
       }
@@ -176,7 +176,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Kings Mill",
-        "link": "https://cudl.lib.cam.ac.uk/view/PR-FITZWILLIAM-P-00156-01955"
+        "link": ""
       },
       "geometry": {
         "coordinates": [
