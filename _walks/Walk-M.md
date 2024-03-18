@@ -2,7 +2,7 @@
 title: "Walk M: The Cambridge Edition"
 walk_byline: "We walk with Constable ... in Cambridge."
 layout: walk
-excerpt: "On this ‘Cambridge Edition’ we’ll experience how we’ve been doing this by using sites in Cambridge as a surrogate for the locations in the Dedham Vale where painter John Constable grew up and worked. We’ll also look at some material created by an amateur artist who lived and worked in Cambridge around the time Constable was working. By using augmented reality, we can also think about how the local landscape has changed since this time, as we experience how the natural environment has changed and we explore evidence of how the built environment has, or hasn't, developed."
+excerpt: "On this ‘Cambridge Edition’ we’ll experience the project's methods by using surrogate sites as well as events in Cambridge itself as we think about how the local landscape has, or hasn't, changed since this time."
 preview: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/walks/P_1471_R_CE_crop_preview.jpg
 image: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/walks/P_1471_R_CE_crop.jpg
 alt: 'Summer Morning: P.1471-R'
