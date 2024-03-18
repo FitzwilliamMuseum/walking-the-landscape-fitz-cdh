@@ -1,8 +1,8 @@
 ---
 title: "Walk M: The Cambridge Edition"
-walk_byline: "We walk with Constable ... in Cambridge."
+walk_byline: "On this ‘Cambridge Edition’ we’ll experience the project's methods by using surrogate sites as well as events in Cambridge itself as we think about how the local landscape has, or indeed hasn't, changed."
 layout: walk
-excerpt: "On this ‘Cambridge Edition’ we’ll experience the project's methods by using surrogate sites as well as events in Cambridge itself as we think about how the local landscape has, or hasn't, changed since this time."
+excerpt: "On this ‘Cambridge Edition’ we’ll experience the project's methods by using surrogate sites as well as events in Cambridge itself as we think about how the local landscape has, or indeed hasn't, changed."
 preview: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/walks/P_1471_R_CE_crop_preview.jpg
 image: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/walks/P_1471_R_CE_crop.jpg
 alt: 'Summer Morning: P.1471-R'
