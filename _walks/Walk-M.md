@@ -5,7 +5,7 @@ layout: walk
 excerpt: "We’ll experience the project's methods by using surrogate sites and views of Cambridge as we think about how the local landscape has, or indeed hasn't, changed."
 preview: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/walks/Constable-Kings_preview.jpg
 image: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/walks/Constable-Kings.jpg
-alt: 'Kings College Chapel and Constable's Stoke-by-Neyland print in augmented reality'
+alt: "Kings College Chapel and Constable's Stoke-by-Neyland print in augmented reality"
 pref: 833
 walkDate: 2024-20-03
 geojson: Walk-M-20-MAR-2024.JSON
