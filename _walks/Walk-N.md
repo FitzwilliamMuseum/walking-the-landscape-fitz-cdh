@@ -1,8 +1,8 @@
 ---
 title: "Walk N: A Festival Circular"
-walk_byline: "East Bergholt to Stratford St. Mary and back again"
+walk_byline: "There and back again: East Bergholt to Stratford St. Mary"
 layout: walk
-excerpt: "After a visit to a friend, we hunt out 'Summer Morning' on our way home to East Bergholt."
+excerpt: "As part of Suffolk Walking Festival, we get a taste of the Dedham Vale"
 preview: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/walks/PR-FITZWILLIAM-P-00232-01954-00001-A-000-00001_crop_preview.jpg
 image: https://walking-the-landscape.fitzmuseum.cam.ac.uk/images/walks/PR-FITZWILLIAM-P-00232-01954-00001-A-000-00001_crop.jpg
 alt: ""
@@ -15,8 +15,10 @@ manifestTwo: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-01360-R
 manifestThree: https://cudl.lib.cam.ac.uk//iiif/PH-GEOGRAPHY-RC8GY-00021
 quote: "How Nature paints her colours: how the bee sits on the bloom extracting liquid sweets."
 byline: "Paradise Lost (Book V), John Milton, 1667"
-sceneset: "There and back again: From East Bergholt to Stratford St. Mary"
+sceneset: "As part of Suffolk Walking Festival, we get a taste of the Dedham Vale"
 ---
+Suffolk Walking Festival has been running since 2007 and is now one of the country's largest and longest running celebrations of walking. This year 'Walking with Constable' joins the festival, as we immerse walkers in John Constable's world. 
+
 We start in the centre of the village in which Constable’s father, Golding Constable, built a new house in 1774, moving his family from their home in a mill house in Flatford, a mile south on the river Stour [literally, a ‘flat ford’ settlement, where cattle could cross].  
 
 <iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestOne }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="100%" height="600" allowfullscreen frameborder="0"></iframe>  
