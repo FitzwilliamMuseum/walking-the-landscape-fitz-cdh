@@ -15,9 +15,9 @@ manifestTwo: https://cudl.lib.cam.ac.uk//iiif/PR-FITZWILLIAM-P-01360-R
 manifestThree: https://cudl.lib.cam.ac.uk//iiif/PH-GEOGRAPHY-RC8GY-00021
 quote: "How Nature paints her colours: how the bee sits on the bloom extracting liquid sweets."
 byline: "Paradise Lost (Book V), John Milton, 1667"
-sceneset: "As part of Suffolk Walking Festival, we get a taste of the Dedham Vale"
+sceneset: "As part of Suffolk Walking Festival, we get an immersive taste of the Dedham Vale"
 ---
-Suffolk Walking Festival has been running since 2007 and is now one of the country's largest and longest running celebrations of walking. This year 'Walking with Constable' joins the festival, as we immerse walkers in John Constable's world. 
+[Suffolk Walking Festival](https://suffolkwalkingfestival.co.uk/) has been running since 2007 and is now one of the country's largest and longest running celebrations of walking. This year 'Walking with Constable' joins the festival, as we immerse walkers in John Constable's world. 
 
 We start in the centre of the village in which Constable’s father, Golding Constable, built a new house in 1774, moving his family from their home in a mill house in Flatford, a mile south on the river Stour [literally, a ‘flat ford’ settlement, where cattle could cross].  
 
