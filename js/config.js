@@ -23,7 +23,7 @@ var klaroConfig = {
     // store user consent. If undefined, Klaro will use 'klaro'.
  
     // Put a link to your privacy policy here (relative or absolute).
-    privacyPolicy: 'https://www.fitzmuseum.cam.ac.uk/website/cookiepolicy',
+    privacyPolicy: 'https://fitzmuseum.cam.ac.uk/about-us/privacy-and-cookies',
     
     // Defines the default state for applications (true=enabled by default).
     default: true,
@@ -94,7 +94,7 @@ var klaroConfig = {
             // Overwrites global "default" setting.
             // We recommend leaving this to "false" for apps that collect
             // personal information.
-            default: true,
+            default: false,
 
             // The title of you app as listed in the consent modal.
             title : 'Google Analytics',
@@ -156,6 +156,8 @@ var klaroConfig = {
             name : 'youtube',
             title : 'YouTube',
             purposes : ['advertising'],
+            default: false,
+            contextualConsentOnly: true,
         },
         {
             name : 'doubleclick',
