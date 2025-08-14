@@ -53,9 +53,6 @@ var klaroConfig = {
             consentModal: {
                 description: 'Here you can see and customize the information that we collect about you. Entries marked as "Example" are just for demonstration purposes and are not really used on this website.',
             },
-            googleAnalytics: {
-                description: 'Collecting of visitor statistics',
-            },
             bootstrap: {
                 description: 'External style sheets for site aesthetics',
             },
@@ -88,7 +85,7 @@ var klaroConfig = {
     apps : [
         {
             // Each app should have a unique (and short) name.
-            name : 'googleAnalytics',
+            name : ,
 
             // If "default" is set to true, the app will be enabled by default
             // Overwrites global "default" setting.
@@ -97,17 +94,17 @@ var klaroConfig = {
             default: false,
 
             // The title of you app as listed in the consent modal.
-            title : 'Google Analytics',
+            title : ,
 
             // The purpose(s) of this app. Will be listed on the consent notice.
             // Do not forget to add translations for all purposes you list here.
-            purposes : ['analytics'],
+            purposes : [],
             
             // A list of regex expressions or strings giving the names of
             // cookies set by this app. If the user withdraws consent for a
             // given app, Klaro will then automatically delete all matching
             // cookies.
-            cookies : [/^ga/i],
+            cookies : [],
 
             // An optional callback function that will be called each time
             // the consent state for the app changes (true=consented). Passes
